@@ -1371,21 +1371,21 @@ VAL;dob;1;C;4;4;Date of Birth_1980-1989
 VAL;dob;1;C;5;5;Date of Birth_1990-1999
 VAL;dob;1;C;6;6;Date of Birth_2000-2009
 NAME;dob;1;C;;;Date of Birth
-VAL;pob;1;C;1;1;Place of Birth_clacton-on-sea, uk,,,,,
-VAL;pob;1;C;2;2;Place of Birth_zhe jiang, china,,,,,
-VAL;pob;1;C;3;3;Place of Birth_india
-VAL;pob;1;C;4;4;Place of Birth_karanganyar, indonesia,,,,,
-VAL;pob;1;C;5;5;Place of Birth_salisbury, uk,,,,,
-VAL;pob;1;C;6;6;Place of Birth_izmir, turkey,,,,,
-VAL;pob;1;C;7;7;Place of Birth_kolkotta, india,,,,,
-VAL;pob;1;C;8;8;Place of Birth_hong kong
-VAL;pob;1;C;9;9;Place of Birth_colombia
-VAL;pob;2;C;10;10;Place of Birth_chittagong, bangladesh,,,,,
-VAL;pob;2;C;11;11;Place of Birth_accra, ghana,,,,,
-VAL;pob;2;C;12;12;Place of Birth_venezuela
-VAL;pob;2;C;13;13;Place of Birth_winnipeg, canada,,,,,
-VAL;pob;2;C;14;14;Place of Birth_london, uk,,,,,
-NAME;pob;2;C;;;Place of Birth
+VAL;POBP;1;C;1;1;Place of Birth_clacton-on-sea, uk,,,,,
+VAL;POBP;1;C;2;2;Place of Birth_zhe jiang, china,,,,,
+VAL;POBP;1;C;3;3;Place of Birth_india
+VAL;POBP;1;C;4;4;Place of Birth_karanganyar, indonesia,,,,,
+VAL;POBP;1;C;5;5;Place of Birth_salisbury, uk,,,,,
+VAL;POBP;1;C;6;6;Place of Birth_izmir, turkey,,,,,
+VAL;POBP;1;C;7;7;Place of Birth_kolkotta, india,,,,,
+VAL;POBP;1;C;8;8;Place of Birth_hong kong
+VAL;POBP;1;C;9;9;Place of Birth_colombia
+VAL;POBP;2;C;10;10;Place of Birth_chittagong, bangladesh,,,,,
+VAL;POBP;2;C;11;11;Place of Birth_accra, ghana,,,,,
+VAL;POBP;2;C;12;12;Place of Birth_venezuela
+VAL;POBP;2;C;13;13;Place of Birth_winnipeg, canada,,,,,
+VAL;POBP;2;C;14;14;Place of Birth_london, uk,,,,,
+NAME;POBP;2;C;;;Place of Birth
 VAL;residence;1;C;1;1;residence_London
 VAL;residence;1;C;2;2;residence_Dunstable
 VAL;residence;1;C;3;3;residence_Essex
@@ -1403,9 +1403,9 @@ VAL;RAC1P;1;C;3;3;ethnicity_Asian / Asian British
 VAL;RAC1P;1;C;4;4;ethnicity_Black / African / Caribbean
 VAL;RAC1P;1;C;5;5;ethnicity_Other
 NAME;RAC1P;1;C;;;Ethnicity
-VAL;marital_status;1;C;1;1;Marital status_single or divorced
-VAL;marital_status;1;C;2;2;Marital status_married
-NAME;marital_status;1;C;;;Marital status
+VAL;MAR;1;C;1;1;Marital status_single or divorced
+VAL;MAR;1;C;2;2;Marital status_married
+NAME;MAR;1;C;;;Marital status
 VAL;living_status;1;C;1;1;Living Status_living alone
 VAL;living_status;1;C;2;2;Living Status_living in a family home
 VAL;living_status;1;C;3;3;Living Status_living with a partner
@@ -1430,11 +1430,37 @@ NAME;working_time;1;C;;;Working time
 VAL;shift_pattern;1;C;1;1;If you answered shift worker, please describe your shifts patterns_2 days a week,,,,,
 VAL;shift_pattern;1;C;2;2;If you answered shift worker, please describe your shifts patterns_2 and 1/2 days a week,,,,,
 NAME;shift_pattern;1;C;;;If you answered shift worker, please describe your shifts patterns,,,,,
-VAL;education;1;C;1;1;Education Level_secondary
-VAL;education;1;C;2;2;Education Level_university (bachelor or equivalent)
-VAL;education;1;C;3;3;Education Level_doctoral
-VAL;education;1;C;4;4;Education Level_short-cycle tertiary education
-NAME;education;1;C;;;Education Level
+VAL;EDU;1;C;1;1;Education Level_secondary
+VAL;EDU;1;C;2;2;Education Level_university (bachelor or equivalent)
+VAL;EDU;1;C;3;3;Education Level_doctoral
+VAL;EDU;1;C;4;4;Education Level_short-cycle tertiary education
+NAME;EDU;1;C;;;Education Level
+NAME;SCHL;C;2;Educational attainment
+VAL;SCHL;C;2;bb;bb;N/A (less than 3 years old)
+VAL;SCHL;C;2;01;01;No schooling completed
+VAL;SCHL;C;2;02;02;Nursery school, preschool
+VAL;SCHL;C;2;03;03;Kindergarten
+VAL;SCHL;C;2;04;04;Grade 1
+VAL;SCHL;C;2;05;05;Grade 2
+VAL;SCHL;C;2;06;06;Grade 3
+VAL;SCHL;C;2;07;07;Grade 4
+VAL;SCHL;C;2;08;08;Grade 5
+VAL;SCHL;C;2;09;09;Grade 6
+VAL;SCHL;C;2;10;10;Grade 7
+VAL;SCHL;C;2;11;11;Grade 8
+VAL;SCHL;C;2;12;12;Grade 9
+VAL;SCHL;C;2;13;13;Grade 10
+VAL;SCHL;C;2;14;14;Grade 11
+VAL;SCHL;C;2;15;15;12th grade - no diploma
+VAL;SCHL;C;2;16;16;Regular high school diploma
+VAL;SCHL;C;2;17;17;GED or alternative credential
+VAL;SCHL;C;2;18;18;Some college, but less than 1 year
+VAL;SCHL;C;2;19;19;1 or more years of college credit, no degree
+VAL;SCHL;C;2;20;20;Associate's degree
+VAL;SCHL;C;2;21;21;Bachelor's degree
+VAL;SCHL;C;2;22;22;Master's degree
+VAL;SCHL;C;2;23;23;Professional degree beyond a bachelor's degree
+VAL;SCHL;C;2;24;24;Doctorate degree
 VAL;women\_health;1;C;1;1;Women's health (only for women)  Please fill in the following information:  Years of menarche  Years of menopause  Number of children  Number of full-term pregnancies  Currently breastfeeding?  Did you breastfeed your children? If yes, how many?_nan,,,,,
 VAL;women\_health;1;C;2;2;Women's health (only for women)  Please fill in the following information:  Years of menarche  Years of menopause  Number of children  Number of full-term pregnancies  Currently breastfeeding?  Did you breastfeed your children? If yes, how many?_10,0,0,0, no,
 VAL;women\_health;1;C;3;3;Women's health (only for women)  Please fill in the following information:  Years of menarche  Years of menopause  Number of children  Number of full-term pregnancies  Currently breastfeeding?  Did you breastfeed your children? If yes, how many?_n/a,1,1,1, n/a,
@@ -1746,31 +1772,31 @@ VAL;long\_term\_illness;1;C;8;8;Do you currently suffer from any long-term illne
 NAME;long\_term\_illness;1;C;;;Do you currently suffer from any long-term illness?  If Yes, please specify.,,,,,
 VAL;pregnancy;1;C;1;1;Are you pregnant, breast feeding, planning to get pregnant or your partner is planning to get pregnant, in the next 12 months?_no,,,
 NAME;pregnancy;1;C;;;Are you pregnant, breast feeding, planning to get pregnant or your partner is planning to get pregnant, in the next 12 months?,,,
-VAL;career_decade;3;N;-40;-30;-40--30 years, negative means not working,,,,,
-VAL;career_decade;3;N;-30;-20;-30--20 years, negative means not working,,,,,
-VAL;career_decade;3;N;-20;-10;-20--10 years, negative means not working,,,,,
-VAL;career_decade;3;N;-10;0;-10-0 years, negative means not working,,,,,
-VAL;career_decade;1;N;0;10;0-10 years, negative means not working,,,,,
-VAL;career_decade;2;N;10;20;10-20 years, negative means not working,,,,,
-VAL;career_decade;2;N;20;30;20-30 years, negative means not working,,,,,
-VAL;career_decade;2;N;30;40;30-40 years, negative means not working,,,,,
-VAL;career_decade;2;N;40;50;40-50 years, negative means not working,,,,,
-VAL;career_profession;1;C;1;1;Nursing
-VAL;career_profession;1;C;2;2;Incubator Manager
-VAL;career_profession;1;C;3;3;carer
-VAL;career_profession;1;C;4;4;business
-VAL;career_profession;1;C;5;5;operation theatre HCA
-VAL;career_profession;1;C;6;6;customer service
-VAL;career_profession;1;C;7;7;civil servant
-VAL;career_profession;1;C;8;8;book-keeper
-VAL;career_profession;1;C;9;9;Senior ACCT Manager
-VAL;career_profession;2;C;10;10;Executive Assistant
-VAL;career_profession;2;C;11;11;biochemist
-VAL;career_profession;2;C;12;12;kitchen designer
-VAL;career_profession;2;C;13;13;banker
-VAL;career_profession;2;C;14;14;Family Content Supervisor
-VAL;career_profession;2;C;15;15;Administration
-NAME;career_profession;2;C;;;career_profession_all_type(working, not working-, retired)
+VAL;CAD;3;N;-40;-30;-40--30 years, negative means not working,,,,,
+VAL;CAD;3;N;-30;-20;-30--20 years, negative means not working,,,,,
+VAL;CAD;3;N;-20;-10;-20--10 years, negative means not working,,,,,
+VAL;CAD;3;N;-10;0;-10-0 years, negative means not working,,,,,
+VAL;CAD;1;N;0;10;0-10 years, negative means not working,,,,,
+VAL;CAD;2;N;10;20;10-20 years, negative means not working,,,,,
+VAL;CAD;2;N;20;30;20-30 years, negative means not working,,,,,
+VAL;CAD;2;N;30;40;30-40 years, negative means not working,,,,,
+VAL;CAD;2;N;40;50;40-50 years, negative means not working,,,,,
+VAL;CAP;1;C;1;1;Nursing
+VAL;CAP;1;C;2;2;Incubator Manager
+VAL;CAP;1;C;3;3;carer
+VAL;CAP;1;C;4;4;business
+VAL;CAP;1;C;5;5;operation theatre HCA
+VAL;CAP;1;C;6;6;customer service
+VAL;CAP;1;C;7;7;civil servant
+VAL;CAP;1;C;8;8;book-keeper
+VAL;CAP;1;C;9;9;Senior ACCT Manager
+VAL;CAP;2;C;10;10;Executive Assistant
+VAL;CAP;2;C;11;11;biochemist
+VAL;CAP;2;C;12;12;kitchen designer
+VAL;CAP;2;C;13;13;banker
+VAL;CAP;2;C;14;14;Family Content Supervisor
+VAL;CAP;2;C;15;15;Administration
+NAME;CAP;2;C;;;career_profession_all_type(working, not working-, retired)
 NAME;COW;C;1;Class of worker;;
 VAL;COW;C;1;b;b;N/A (less than 16 years old/NILF who last worked more than 5 years ago or never worked)
 VAL;COW;C;1;1;1;Employee of a private for-profit company or business, or of an individual, for wages, salary, or commissions
@@ -1794,5 +1820,6 @@ VAL;ST;C;2;44;44;Rhode Island/RI
 VAL;ST;C;2;45;45;South Carolina/SC
 VAL;ST;C;2;46;46;South Dakota/SD
 VAL;ST;C;2;47;47;Tennessee/TN
+
 
 
