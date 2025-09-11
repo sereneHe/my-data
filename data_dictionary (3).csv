@@ -1415,15 +1415,15 @@ VAL;employment_status;1;C;2;2;Employment Status_student
 VAL;employment_status;1;C;3;3;Employment Status_non-working
 VAL;employment_status;1;C;4;4;Employment Status_retired
 NAME;employment_status;1;C;;;Employment Status
-VAL;salary;1;C;1;1;Salary (annual net salary)_>17,200-25,800,,,,
-VAL;salary;1;C;2;2;Salary (annual net salary)_>£51,000,,,,,
-VAL;salary;1;C;3;3;Salary (annual net salary)_>£34,400-43,000,,,,
-VAL;salary;1;C;4;4;Salary (annual net salary)_>£25,800-34,400,,,,
-VAL;salary;1;C;5;5;Salary (annual net salary)_>£17,200-25,800,,,,
-VAL;salary;1;C;6;6;Salary (annual net salary)_0-£10,320,,,,,
-VAL;salary;1;C;7;7;Salary (annual net salary)_>£ 43,000-51,600,,,,
-VAL;salary;1;C;8;8;Salary (annual net salary)_>£10,320-17,200,,,,
-NAME;salary;1;C;;;Salary (annual net salary)
+VAL;PINCP;1;C;1;1;Salary (annual net salary)_>17,200-25,800,,,,
+VAL;PINCP;1;C;2;2;Salary (annual net salary)_>£51,000,,,,,
+VAL;PINCP;1;C;3;3;Salary (annual net salary)_>£34,400-43,000,,,,
+VAL;PINCP;1;C;4;4;Salary (annual net salary)_>£25,800-34,400,,,,
+VAL;PINCP;1;C;5;5;Salary (annual net salary)_>£17,200-25,800,,,,
+VAL;PINCP;1;C;6;6;Salary (annual net salary)_0-£10,320,,,,,
+VAL;PINCP;1;C;7;7;Salary (annual net salary)_>£ 43,000-51,600,,,,
+VAL;PINCP;1;C;8;8;Salary (annual net salary)_>£10,320-17,200,,,,
+NAME;PINCP;1;C;;;Salary (annual net salary)
 VAL;working_time;1;C;1;1;Working time_full-time
 VAL;working_time;1;C;2;2;Working time_part-time
 NAME;working_time;1;C;;;Working time
@@ -1783,3 +1783,4 @@ VAL;ST;C;2;44;44;Rhode Island/RI
 VAL;ST;C;2;45;45;South Carolina/SC
 VAL;ST;C;2;46;46;South Dakota/SD
 VAL;ST;C;2;47;47;Tennessee/TN
+
