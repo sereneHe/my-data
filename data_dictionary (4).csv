@@ -1,0 +1,1808 @@
+﻿VAL;ST;Len;Type;Min;Max;Description
+VAL;SERIALNO;7;C;cd_003_v1;cd_003_v1;User ID_cd_003_v1
+VAL;SERIALNO;7;C;cd_003_v2;cd_003_v2;User ID_cd_003_v2
+VAL;SERIALNO;7;C;cd_003_v3;cd_003_v3;User ID_cd_003_v3
+VAL;SERIALNO;7;C;cd_015_v1;cd_015_v1;User ID_cd_015_v1
+VAL;SERIALNO;7;C;cd_015_v2;cd_015_v2;User ID_cd_015_v2
+VAL;SERIALNO;7;C;cd_015_v3;cd_015_v3;User ID_cd_015_v3
+VAL;SERIALNO;7;C;cd_034_v1;cd_034_v1;User ID_cd_034_v1
+VAL;SERIALNO;7;C;cd_034_v2;cd_034_v2;User ID_cd_034_v2
+VAL;SERIALNO;7;C;cd_034_v3;cd_034_v3;User ID_cd_034_v3
+VAL;SERIALNO;7;C;cd_038_v1;cd_038_v1;User ID_cd_038_v1
+VAL;SERIALNO;7;C;cd_038_v2;cd_038_v2;User ID_cd_038_v2
+VAL;SERIALNO;7;C;cd_038_v3;cd_038_v3;User ID_cd_038_v3
+VAL;SERIALNO;7;C;cd_042_v1;cd_042_v1;User ID_cd_042_v1
+VAL;SERIALNO;7;C;cd_042_v2;cd_042_v2;User ID_cd_042_v2
+VAL;SERIALNO;7;C;cd_042_v3;cd_042_v3;User ID_cd_042_v3
+VAL;SERIALNO;7;C;cd_043_v1;cd_043_v1;User ID_cd_043_v1
+VAL;SERIALNO;7;C;cd_043_v2;cd_043_v2;User ID_cd_043_v2
+VAL;SERIALNO;7;C;cd_043_v3;cd_043_v3;User ID_cd_043_v3
+VAL;SERIALNO;7;C;cd_046_v2;cd_046_v2;User ID_cd_046_v2
+VAL;SERIALNO;7;C;cd_046_v3;cd_046_v3;User ID_cd_046_v3
+VAL;SERIALNO;7;C;cd_049_v1;cd_049_v1;User ID_cd_049_v1
+VAL;SERIALNO;7;C;cd_049_v2;cd_049_v2;User ID_cd_049_v2
+VAL;SERIALNO;7;C;cd_049_v3;cd_049_v3;User ID_cd_049_v3
+VAL;SERIALNO;7;C;cd_053_v1;cd_053_v1;User ID_cd_053_v1
+VAL;SERIALNO;7;C;cd_053_v2;cd_053_v2;User ID_cd_053_v2
+VAL;SERIALNO;7;C;cd_053_v3;cd_053_v3;User ID_cd_053_v3
+VAL;SERIALNO;7;C;cd_061_v1;cd_061_v1;User ID_cd_061_v1
+VAL;SERIALNO;7;C;cd_061_v2;cd_061_v2;User ID_cd_061_v2
+VAL;SERIALNO;7;C;cd_061_v3;cd_061_v3;User ID_cd_061_v3
+VAL;SERIALNO;7;C;cd_065_v1;cd_065_v1;User ID_cd_065_v1
+VAL;SERIALNO;7;C;cd_065_v2;cd_065_v2;User ID_cd_065_v2
+VAL;SERIALNO;7;C;cd_067_v1;cd_067_v1;User ID_cd_067_v1
+VAL;SERIALNO;7;C;cd_067_v2;cd_067_v2;User ID_cd_067_v2
+VAL;SERIALNO;7;C;cd_074_v1;cd_074_v1;User ID_cd_074_v1
+VAL;SERIALNO;7;C;cd_074_v2;cd_074_v2;User ID_cd_074_v2
+VAL;SERIALNO;7;C;cd_074_v3;cd_074_v3;User ID_cd_074_v3
+VAL;SERIALNO;7;C;cd_079_v1;cd_079_v1;User ID_cd_079_v1
+VAL;SERIALNO;7;C;cd_079_v2;cd_079_v2;User ID_cd_079_v2
+VAL;SERIALNO;7;C;cd_088_v1;cd_088_v1;User ID_cd_088_v1
+VAL;SERIALNO;7;C;cd_088_v2;cd_088_v2;User ID_cd_088_v2
+VAL;SERIALNO;7;C;cd_088_v3;cd_088_v3;User ID_cd_088_v3
+VAL;SERIALNO;7;C;cd_091_v1;cd_091_v1;User ID_cd_091_v1
+VAL;SERIALNO;7;C;cd_091_v2;cd_091_v2;User ID_cd_091_v2
+VAL;SERIALNO;7;C;cd_091_v3;cd_091_v3;User ID_cd_091_v3
+VAL;SERIALNO;7;C;cd_099_v1;cd_099_v1;User ID_cd_099_v1
+VAL;SERIALNO;7;C;cd_099_v2;cd_099_v2;User ID_cd_099_v2
+VAL;SERIALNO;7;C;cd_099_v3;cd_099_v3;User ID_cd_099_v3
+VAL;SERIALNO;7;C;cd_100_v2;cd_100_v2;User ID_cd_100_v2
+VAL;SERIALNO;7;C;cd_100_v3;cd_100_v3;User ID_cd_100_v3
+VAL;SERIALNO;7;C;cd_101_v1;cd_101_v1;User ID_cd_101_v1
+VAL;SERIALNO;7;C;cd_101_v2;cd_101_v2;User ID_cd_101_v2
+VAL;SERIALNO;7;C;cd_101_v3;cd_101_v3;User ID_cd_101_v3
+VAL;SERIALNO;7;C;cd_106_v1;cd_106_v1;User ID_cd_106_v1
+VAL;SERIALNO;7;C;cd_106_v3;cd_106_v3;User ID_cd_106_v3
+VAL;SERIALNO;7;C;cd_112_v1;cd_112_v1;User ID_cd_112_v1
+VAL;SERIALNO;7;C;cd_112_v2;cd_112_v2;User ID_cd_112_v2
+VAL;SERIALNO;7;C;cd_112_v3;cd_112_v3;User ID_cd_112_v3
+VAL;SERIALNO;7;C;cd_119_v1;cd_119_v1;User ID_cd_119_v1
+VAL;SERIALNO;7;C;cd_119_v2;cd_119_v2;User ID_cd_119_v2
+VAL;SERIALNO;7;C;cd_119_v3;cd_119_v3;User ID_cd_119_v3
+NAME;SERIALNO;2;C;;;User ID
+VAL;PID;1;C;1;1;patient_cd-003
+VAL;PID;1;C;2;2;patient_cd-015
+VAL;PID;1;C;3;3;patient_cd-034
+VAL;PID;1;C;4;4;patient_cd-038
+VAL;PID;1;C;5;5;patient_cd-042
+VAL;PID;1;C;6;6;patient_cd-043
+VAL;PID;1;C;7;7;patient_cd-046
+VAL;PID;1;C;8;8;patient_cd-049
+VAL;PID;1;C;9;9;patient_cd-053
+VAL;PID;2;C;10;10;patient_cd-061
+VAL;PID;2;C;11;11;patient_cd-065
+VAL;PID;2;C;12;12;patient_cd-067
+VAL;PID;2;C;13;13;patient_cd-074
+VAL;PID;2;C;14;14;patient_cd-079
+VAL;PID;2;C;15;15;patient_cd-088
+VAL;PID;2;C;16;16;patient_cd-091
+VAL;PID;2;C;17;17;patient_cd-099
+VAL;PID;2;C;18;18;patient_cd-100
+VAL;PID;2;C;19;19;patient_cd-101
+VAL;PID;2;C;20;20;patient_cd-106
+VAL;PID;2;C;21;21;patient_cd-112
+VAL;PID;2;C;22;22;patient_cd-119
+NAME;PID;2;C;;;patient
+VAL;VST;1;C;1;1;visit_v1
+VAL;VST;1;C;2;2;visit_v2
+VAL;VST;1;C;3;3;visit_v3
+NAME;VST;1;C;;;visit
+VAL;MEAL;4;N;2.0;2.49;Meal ID_2.0_2.49
+VAL;MEAL;4;N;2.49;2.85;Meal ID_2.49_2.85
+VAL;MEAL;4;N;2.85;3.09;Meal ID_2.85_3.09
+VAL;MEAL;3;N;3.09;3.4;Meal ID_3.09_3.4
+VAL;MEAL;4;N;3.4;4.61;Meal ID_3.4_4.61
+NAME;MEAL;4;N;;;Meal ID
+VAL;FOOD;3;N;1.5;2.2;Food ID_1.5_2.2
+VAL;FOOD;4;N;2.2;2.46;Food ID_2.2_2.46
+VAL;FOOD;4;N;2.46;2.83;Food ID_2.46_2.83
+VAL;FOOD;4;N;2.83;3.19;Food ID_2.83_3.19
+VAL;FOOD;4;N;3.19;5.08;Food ID_3.19_5.08
+NAME;FOOD;4;N;;;Food ID
+VAL;NTBL;7;N;3760.1;4860.45;Nutrient table code_3760.1_4860.45
+VAL;NTBL;7;N;4860.45;5261.87;Nutrient table code_4860.45_5261.87
+VAL;NTBL;7;N;5261.87;5746.92;Nutrient table code_5261.87_5746.92
+VAL;NTBL;7;N;5746.92;6334.19;Nutrient table code_5746.92_6334.19
+VAL;NTBL;7;N;6334.19;7526.57;Nutrient table code_6334.19_7526.57
+NAME;NTBL;7;N;;;Nutrient table code
+VAL;FGRC;5;N;55.45;59.37;Food group code_55.45_59.37
+VAL;FGRC;4;N;59.37;61.3;Food group code_59.37_61.3
+VAL;FGRC;5;N;61.3;66.61;Food group code_61.3_66.61
+VAL;FGRC;5;N;66.61;70.61;Food group code_66.61_70.61
+VAL;FGRC;4;N;70.61;84.6;Food group code_70.61_84.6
+NAME;FGRC;4;N;;;Food group code
+VAL;RDYM;4;N;0.0;0.01;Ready meal_0.0_0.01
+VAL;RDYM;4;N;0.01;0.03;Ready meal_0.01_0.03
+VAL;RDYM;4;N;0.03;0.07;Ready meal_0.03_0.07
+VAL;RDYM;4;N;0.07;0.17;Ready meal_0.07_0.17
+NAME;RDYM;4;N;;;Ready meal
+VAL;SVSZ;6;N;82.09;115.39;Serving size (g/ml)_82.09_115.39
+VAL;SVSZ;6;N;115.39;139.93;Serving size (g/ml)_115.39_139.93
+VAL;SVSZ;6;N;139.93;168.59;Serving size (g/ml)_139.93_168.59
+VAL;SVSZ;5;N;168.59;222.0;Serving size (g/ml)_168.59_222.0
+VAL;SVSZ;6;N;222.0;510.78;Serving size (g/ml)_222.0_510.78
+NAME;SVSZ;6;N;;;Serving size (g/ml)
+VAL;LEFT;4;N;0.0;0.08;Leftovers (g/ml)_0.0_0.08
+VAL;LEFT;4;N;0.08;0.46;Leftovers (g/ml)_0.08_0.46
+VAL;LEFT;6;N;0.46;279.65;Leftovers (g/ml)_0.46_279.65
+NAME;LEFT;6;N;;;Leftovers (g/ml)
+VAL;PRSZ;6;N;71.83;114.93;Portion size (g/ml)_71.83_114.93
+VAL;PRSZ;6;N;114.93;134.32;Portion size (g/ml)_114.93_134.32
+VAL;PRSZ;6;N;134.32;164.16;Portion size (g/ml)_134.32_164.16
+VAL;PRSZ;6;N;164.16;219.45;Portion size (g/ml)_164.16_219.45
+VAL;PRSZ;6;N;219.45;510.78;Portion size (g/ml)_219.45_510.78
+NAME;PRSZ;6;N;;;Portion size (g/ml)
+VAL;RSON;3;N;0.8;1.0;Reasonable amount_0.8_1.0
+NAME;RSON;3;N;;;Reasonable amount
+VAL;WATR;5;N;49.9;91.32;Water_49.9_91.32
+VAL;WATR;6;N;91.32;108.85;Water_91.32_108.85
+VAL;WATR;6;N;108.85;133.68;Water_108.85_133.68
+VAL;WATR;6;N;133.68;188.21;Water_133.68_188.21
+VAL;WATR;6;N;188.21;495.45;Water_188.21_495.45
+NAME;WATR;6;N;;;Water
+VAL;TNIT;4;N;0.25;0.48;Total nitrogen_0.25_0.48
+VAL;TNIT;3;N;0.48;0.6;Total nitrogen_0.48_0.6
+VAL;TNIT;4;N;0.6;0.81;Total nitrogen_0.6_0.81
+VAL;TNIT;3;N;0.81;1.0;Total nitrogen_0.81_1.0
+VAL;TNIT;4;N;1.0;3.39;Total nitrogen_1.0_3.39
+NAME;TNIT;4;N;;;Total nitrogen
+VAL;NIT;3;N;4.47;7.1;Nitrogen conversion factor_4.47_7.1
+VAL;NIT;4;N;7.1;8.24;Nitrogen conversion factor_7.1_8.24
+VAL;NIT;4;N;8.24;9.97;Nitrogen conversion factor_8.24_9.97
+VAL;NIT;5;N;9.97;13.37;Nitrogen conversion factor_9.97_13.37
+VAL;NIT;5;N;13.37;31.86;Nitrogen conversion factor_13.37_31.86
+NAME;NIT;5;N;;;Nitrogen conversion factor
+VAL;PROT;3;N;1.54;3.0;Protein_1.54_3.0
+VAL;PROT;4;N;3.0;3.66;Protein_3.0_3.66
+VAL;PROT;4;N;3.66;5.08;Protein_3.66_5.08
+VAL;PROT;4;N;5.08;6.43;Protein_5.08_6.43
+VAL;PROT;5;N;6.43;21.25;Protein_6.43_21.25
+NAME;PROT;5;N;;;Protein
+VAL;FAT;3;N;1.06;2.6;Fat_1.06_2.6
+VAL;FAT;4;N;2.6;3.56;Fat_2.6_3.56
+VAL;FAT;4;N;3.56;4.74;Fat_3.56_4.74
+VAL;FAT;4;N;4.74;6.14;Fat_4.74_6.14
+VAL;FAT;5;N;6.14;25.36;Fat_6.14_25.36
+NAME;FAT;5;N;;;Fat
+VAL;CARB;4;N;4.73;8.02;Carbohydrate_4.73_8.02
+VAL;CARB;4;N;8.02;9.91;Carbohydrate_8.02_9.91
+VAL;CARB;5;N;9.91;12.59;Carbohydrate_9.91_12.59
+VAL;CARB;4;N;12.59;16.9;Carbohydrate_12.59_16.9
+VAL;CARB;5;N;16.9;37.39;Carbohydrate_16.9_37.39
+NAME;CARB;5;N;;;Carbohydrate
+VAL;KCAL;5;N;51.13;70.76;Energy (kcal)_51.13_70.76
+VAL;KCAL;5;N;70.76;88.09;Energy (kcal)_70.76_88.09
+VAL;KCAL;6;N;88.09;110.11;Energy (kcal)_88.09_110.11
+VAL;KCAL;6;N;110.11;147.55;Energy (kcal)_110.11_147.55
+VAL;KCAL;6;N;147.55;454.12;Energy (kcal)_147.55_454.12
+NAME;KCAL;6;N;;;Energy (kcal)
+VAL;KJ;6;N;215.95;297.35;Energy (kJ)_215.95_297.35
+VAL;KJ;6;N;297.35;369.39;Energy (kJ)_297.35_369.39
+VAL;KJ;6;N;369.39;461.96;Energy (kJ)_369.39_461.96
+VAL;KJ;6;N;461.96;622.05;Energy (kJ)_461.96_622.05
+VAL;KJ;7;N;622.05;1897.69;Energy (kJ)_622.05_1897.69
+NAME;KJ;7;N;;;Energy (kJ)
+VAL;ALC;4;N;0.0;0.12;Alcohol_0.0_0.12
+VAL;ALC;4;N;0.12;0.96;Alcohol_0.12_0.96
+VAL;ALC;4;N;0.96;8.34;Alcohol_0.96_8.34
+NAME;ALC;4;N;;;Alcohol
+VAL;FIBR;4;N;0.32;0.56;Englyst fibre_0.32_0.56
+VAL;FIBR;3;N;0.56;0.7;Englyst fibre_0.56_0.7
+VAL;FIBR;3;N;0.7;0.9;Englyst fibre_0.7_0.9
+VAL;FIBR;4;N;0.9;1.05;Englyst fibre_0.9_1.05
+VAL;FIBR;4;N;1.05;2.11;Englyst fibre_1.05_2.11
+NAME;FIBR;4;N;;;Englyst fibre
+VAL;STCH;4;N;0.64;4.81;Starch_0.64_4.81
+VAL;STCH;3;N;4.81;6.5;Starch_4.81_6.5
+VAL;STCH;4;N;6.5;8.91;Starch_6.5_8.91
+VAL;STCH;5;N;8.91;12.05;Starch_8.91_12.05
+VAL;STCH;5;N;12.05;18.74;Starch_12.05_18.74
+NAME;STCH;5;N;;;Starch
+VAL;TSUG;4;N;1.23;2.53;Total sugars_1.23_2.53
+VAL;TSUG;4;N;2.53;3.01;Total sugars_2.53_3.01
+VAL;TSUG;4;N;3.01;3.96;Total sugars_3.01_3.96
+VAL;TSUG;4;N;3.96;5.67;Total sugars_3.96_5.67
+VAL;TSUG;5;N;5.67;18.66;Total sugars_5.67_18.66
+NAME;TSUG;5;N;;;Total sugars
+VAL;AOAC;4;N;0.41;0.73;AOAC_0.41_0.73
+VAL;AOAC;4;N;0.73;0.96;AOAC_0.73_0.96
+VAL;AOAC;3;N;0.96;1.2;AOAC_0.96_1.2
+VAL;AOAC;4;N;1.2;1.47;AOAC_1.2_1.47
+VAL;AOAC;4;N;1.47;3.05;AOAC_1.47_3.05
+NAME;AOAC;4;N;;;AOAC
+VAL;NMS;4;N;0.01;0.86;Non-milk extrinsic sugars_0.01_0.86
+VAL;NMS;3;N;0.86;1.4;Non-milk extrinsic sugars_0.86_1.4
+VAL;NMS;4;N;1.4;1.97;Non-milk extrinsic sugars_1.4_1.97
+VAL;NMS;4;N;1.97;2.98;Non-milk extrinsic sugars_1.97_2.98
+VAL;NMS;5;N;2.98;12.74;Non-milk extrinsic sugars_2.98_12.74
+NAME;NMS;5;N;;;Non-milk extrinsic sugars
+VAL;IMS;4;N;0.66;1.23;Intrinsic and milk sugars_0.66_1.23
+VAL;IMS;3;N;1.23;1.7;Intrinsic and milk sugars_1.23_1.7
+VAL;IMS;4;N;1.7;2.11;Intrinsic and milk sugars_1.7_2.11
+VAL;IMS;4;N;2.11;2.74;Intrinsic and milk sugars_2.11_2.74
+VAL;IMS;4;N;2.74;7.51;Intrinsic and milk sugars_2.74_7.51
+NAME;IMS;4;N;;;Intrinsic and milk sugars
+VAL;GLUC;4;N;0.05;0.43;Glucose_0.05_0.43
+VAL;GLUC;4;N;0.43;0.61;Glucose_0.43_0.61
+VAL;GLUC;3;N;0.61;0.8;Glucose_0.61_0.8
+VAL;GLUC;4;N;0.8;1.02;Glucose_0.8_1.02
+VAL;GLUC;4;N;1.02;3.41;Glucose_1.02_3.41
+NAME;GLUC;4;N;;;Glucose
+VAL;FRUC;4;N;0.07;0.37;Fructose_0.07_0.37
+VAL;FRUC;3;N;0.37;0.6;Fructose_0.37_0.6
+VAL;FRUC;4;N;0.6;0.79;Fructose_0.6_0.79
+VAL;FRUC;4;N;0.79;1.04;Fructose_0.79_1.04
+VAL;FRUC;4;N;1.04;3.03;Fructose_1.04_3.03
+NAME;FRUC;4;N;;;Fructose
+VAL;MALT;4;N;0.0;0.06;Maltose_0.0_0.06
+VAL;MALT;4;N;0.06;0.12;Maltose_0.06_0.12
+VAL;MALT;4;N;0.12;0.18;Maltose_0.12_0.18
+VAL;MALT;4;N;0.18;0.26;Maltose_0.18_0.26
+VAL;MALT;4;N;0.26;1.03;Maltose_0.26_1.03
+NAME;MALT;4;N;;;Maltose
+VAL;LACT;4;N;0.0;0.17;Lactose_0.0_0.17
+VAL;LACT;4;N;0.17;0.28;Lactose_0.17_0.28
+VAL;LACT;4;N;0.28;0.57;Lactose_0.28_0.57
+VAL;LACT;4;N;0.57;0.92;Lactose_0.57_0.92
+VAL;LACT;4;N;0.92;2.02;Lactose_0.92_2.02
+NAME;LACT;4;N;;;Lactose
+VAL;SUCR;4;N;0.43;0.88;Sucrose_0.43_0.88
+VAL;SUCR;4;N;0.88;1.16;Sucrose_0.88_1.16
+VAL;SUCR;4;N;1.16;1.62;Sucrose_1.16_1.62
+VAL;SUCR;4;N;1.62;2.42;Sucrose_1.62_2.42
+VAL;SUCR;3;N;2.42;9.9;Sucrose_2.42_9.9
+NAME;SUCR;3;N;;;Sucrose
+VAL;OTSU;3;N;0.0;0.0;Other sugars (UK)_0.0_0.0
+VAL;OTSU;4;N;0.0;0.02;Other sugars (UK)_0.0_0.02
+VAL;OTSU;3;N;0.02;0.2;Other sugars (UK)_0.02_0.2
+NAME;OTSU;3;N;;;Other sugars (UK)
+VAL;FSTB;4;N;0.01;0.55;FS Table sugar_0.01_0.55
+VAL;FSTB;4;N;0.55;0.94;FS Table sugar_0.55_0.94
+VAL;FSTB;4;N;0.94;1.45;FS Table sugar_0.94_1.45
+VAL;FSTB;4;N;1.45;2.55;FS Table sugar_1.45_2.55
+VAL;FSTB;5;N;2.55;11.27;FS Table sugar_2.55_11.27
+NAME;FSTB;5;N;;;FS Table sugar
+VAL;FSUG;4;N;0.0;0.02;FS Other Added Sugar_0.0_0.02
+VAL;FSUG;4;N;0.02;0.08;FS Other Added Sugar_0.02_0.08
+VAL;FSUG;4;N;0.08;0.15;FS Other Added Sugar_0.08_0.15
+VAL;FSUG;4;N;0.15;0.34;FS Other Added Sugar_0.15_0.34
+VAL;FSUG;4;N;0.34;2.62;FS Other Added Sugar_0.34_2.62
+NAME;FSUG;4;N;;;FS Other Added Sugar
+VAL;FSHN;4;N;0.0;0.02;FS Honey_0.0_0.02
+VAL;FSHN;4;N;0.02;0.51;FS Honey_0.02_0.51
+NAME;FSHN;4;N;;;FS Honey
+VAL;FSFJ;4;N;0.0;0.01;FS Fruit Juice_0.0_0.01
+VAL;FSFJ;4;N;0.01;0.07;FS Fruit Juice_0.01_0.07
+VAL;FSFJ;3;N;0.07;0.3;FS Fruit Juice_0.07_0.3
+VAL;FSFJ;4;N;0.3;1.74;FS Fruit Juice_0.3_1.74
+NAME;FSFJ;4;N;;;FS Fruit Juice
+VAL;FSDR;4;N;0.0;0.04;FS Dried Fruit_0.0_0.04
+VAL;FSDR;4;N;0.04;0.15;FS Dried Fruit_0.04_0.15
+VAL;FSDR;4;N;0.15;1.65;FS Dried Fruit_0.15_1.65
+NAME;FSDR;4;N;;;FS Dried Fruit
+VAL;FSFP;4;N;0.0;0.01;FS Fruit Puree_0.0_0.01
+VAL;FSFP;4;N;0.01;0.03;FS Fruit Puree_0.01_0.03
+VAL;FSFP;3;N;0.03;0.5;FS Fruit Puree_0.03_0.5
+NAME;FSFP;3;N;;;FS Fruit Puree
+VAL;FSSF;3;N;0.0;0.0;FS Stewed Fruit_0.0_0.0
+VAL;FSSF;4;N;0.0;0.05;FS Stewed Fruit_0.0_0.05
+NAME;FSSF;4;N;;;FS Stewed Fruit
+VAL;FSVP;4;N;0.0;0.02;FS Vegetable Puree_0.0_0.02
+VAL;FSVP;4;N;0.02;0.04;FS Vegetable Puree_0.02_0.04
+VAL;FSVP;4;N;0.04;0.06;FS Vegetable Puree_0.04_0.06
+VAL;FSVP;4;N;0.06;0.13;FS Vegetable Puree_0.06_0.13
+VAL;FSVP;4;N;0.13;0.57;FS Vegetable Puree_0.13_0.57
+NAME;FSVP;4;N;;;FS Vegetable Puree
+VAL;SFAT;4;N;0.16;0.72;Satd FA_0.16_0.72
+VAL;SFAT;4;N;0.72;1.09;Satd FA_0.72_1.09
+VAL;SFAT;4;N;1.09;1.31;Satd FA_1.09_1.31
+VAL;SFAT;4;N;1.31;2.14;Satd FA_1.31_2.14
+VAL;SFAT;4;N;2.14;9.03;Satd FA_2.14_9.03
+NAME;SFAT;4;N;;;Satd FA
+VAL;CIS1;4;N;0.42;1.01;Cis-Mon FA_0.42_1.01
+VAL;CIS1;4;N;1.01;1.42;Cis-Mon FA_1.01_1.42
+VAL;CIS1;4;N;1.42;1.99;Cis-Mon FA_1.42_1.99
+VAL;CIS1;4;N;1.99;2.41;Cis-Mon FA_1.99_2.41
+VAL;CIS1;4;N;2.41;9.64;Cis-Mon FA_2.41_9.64
+NAME;CIS1;4;N;;;Cis-Mon FA
+VAL;CIS3;4;N;0.03;0.08;Cis-n3 FA_0.03_0.08
+VAL;CIS3;3;N;0.08;0.1;Cis-n3 FA_0.08_0.1
+VAL;CIS3;4;N;0.1;0.14;Cis-n3 FA_0.1_0.14
+VAL;CIS3;4;N;0.14;0.19;Cis-n3 FA_0.14_0.19
+VAL;CIS3;4;N;0.19;0.36;Cis-n3 FA_0.19_0.36
+NAME;CIS3;4;N;;;Cis-n3 FA
+VAL;CIS6;4;N;0.11;0.43;Cis-n6 FA_0.11_0.43
+VAL;CIS6;4;N;0.43;0.55;Cis-n6 FA_0.43_0.55
+VAL;CIS6;4;N;0.55;0.73;Cis-n6 FA_0.55_0.73
+VAL;CIS6;4;N;0.73;0.96;Cis-n6 FA_0.73_0.96
+VAL;CIS6;4;N;0.96;4.86;Cis-n6 FA_0.96_4.86
+NAME;CIS6;4;N;;;Cis-n6 FA
+VAL;TRFA;4;N;0.0;0.02;Trans FA_0.0_0.02
+VAL;TRFA;4;N;0.02;0.04;Trans FA_0.02_0.04
+VAL;TRFA;4;N;0.04;0.06;Trans FA_0.04_0.06
+VAL;TRFA;4;N;0.06;0.09;Trans FA_0.06_0.09
+VAL;TRFA;4;N;0.09;0.22;Trans FA_0.09_0.22
+NAME;TRFA;4;N;;;Trans FA
+VAL;CHOL;4;N;0.0;7.23;Cholesterol_0.0_7.23
+VAL;CHOL;5;N;7.23;11.45;Cholesterol_7.23_11.45
+VAL;CHOL;5;N;11.45;17.24;Cholesterol_11.45_17.24
+VAL;CHOL;5;N;17.24;27.26;Cholesterol_17.24_27.26
+VAL;CHOL;5;N;27.26;58.94;Cholesterol_27.26_58.94
+NAME;CHOL;5;N;;;Cholesterol
+VAL;RETL;4;N;0.0;7.31;Retinol_0.0_7.31
+VAL;RETL;5;N;7.31;13.55;Retinol_7.31_13.55
+VAL;RETL;4;N;13.55;21.6;Retinol_13.55_21.6
+VAL;RETL;5;N;21.6;32.79;Retinol_21.6_32.79
+VAL;RETL;6;N;32.79;137.61;Retinol_32.79_137.61
+NAME;RETL;6;N;;;Retinol
+VAL;TCAR;5;N;8.93;32.97;Total carotene_8.93_32.97
+VAL;TCAR;5;N;32.97;66.59;Total carotene_32.97_66.59
+VAL;TCAR;6;N;66.59;108.21;Total carotene_66.59_108.21
+VAL;TCAR;6;N;108.21;189.08;Total carotene_108.21_189.08
+VAL;TCAR;6;N;189.08;584.73;Total carotene_189.08_584.73
+NAME;TCAR;6;N;;;Total carotene
+VAL;ACAR;4;N;0.0;1.04;Alpha-carotene_0.0_1.04
+VAL;ACAR;4;N;1.04;5.68;Alpha-carotene_1.04_5.68
+VAL;ACAR;5;N;5.68;13.45;Alpha-carotene_5.68_13.45
+VAL;ACAR;5;N;13.45;30.46;Alpha-carotene_13.45_30.46
+VAL;ACAR;6;N;30.46;180.46;Alpha-carotene_30.46_180.46
+NAME;ACAR;6;N;;;Alpha-carotene
+VAL;BCAR;5;N;7.7;24.48;Beta-carotene_7.7_24.48
+VAL;BCAR;5;N;24.48;62.71;Beta-carotene_24.48_62.71
+VAL;BCAR;5;N;62.71;92.99;Beta-carotene_62.71_92.99
+VAL;BCAR;6;N;92.99;173.88;Beta-carotene_92.99_173.88
+VAL;BCAR;6;N;173.88;489.91;Beta-carotene_173.88_489.91
+NAME;BCAR;6;N;;;Beta-carotene
+VAL;BCRY;4;N;0.0;0.63;Beta cryptoxanthin_0.0_0.63
+VAL;BCRY;4;N;0.63;1.47;Beta cryptoxanthin_0.63_1.47
+VAL;BCRY;4;N;1.47;2.53;Beta cryptoxanthin_1.47_2.53
+VAL;BCRY;4;N;2.53;4.58;Beta cryptoxanthin_2.53_4.58
+VAL;BCRY;5;N;4.58;22.52;Beta cryptoxanthin_4.58_22.52
+NAME;BCRY;5;N;;;Beta cryptoxanthin
+VAL;VITA;5;N;3.84;17.41;Vitamin A_3.84_17.41
+VAL;VITA;5;N;17.41;29.44;Vitamin A_17.41_29.44
+VAL;VITA;5;N;29.44;44.88;Vitamin A_29.44_44.88
+VAL;VITA;5;N;44.88;68.24;Vitamin A_44.88_68.24
+VAL;VITA;6;N;68.24;190.41;Vitamin A_68.24_190.41
+NAME;VITA;6;N;;;Vitamin A
+VAL;VITD;4;N;0.0;0.11;Vitamin D_0.0_0.11
+VAL;VITD;4;N;0.11;0.18;Vitamin D_0.11_0.18
+VAL;VITD;4;N;0.18;0.35;Vitamin D_0.18_0.35
+VAL;VITD;4;N;0.35;0.87;Vitamin D_0.35_0.87
+VAL;VITD;4;N;0.87;2.49;Vitamin D_0.87_2.49
+NAME;VITD;4;N;;;Vitamin D
+VAL;THIA;4;N;0.03;0.06;Thiamin_0.03_0.06
+VAL;THIA;4;N;0.06;0.09;Thiamin_0.06_0.09
+VAL;THIA;4;N;0.09;0.14;Thiamin_0.09_0.14
+VAL;THIA;4;N;0.14;0.23;Thiamin_0.14_0.23
+VAL;THIA;4;N;0.23;5.17;Thiamin_0.23_5.17
+NAME;THIA;4;N;;;Thiamin
+VAL;RIBF;4;N;0.02;0.07;Riboflavin_0.02_0.07
+VAL;RIBF;4;N;0.07;0.09;Riboflavin_0.07_0.09
+VAL;RIBF;4;N;0.09;0.13;Riboflavin_0.09_0.13
+VAL;RIBF;4;N;0.13;0.22;Riboflavin_0.13_0.22
+VAL;RIBF;3;N;0.22;1.1;Riboflavin_0.22_1.1
+NAME;RIBF;3;N;;;Riboflavin
+VAL;NIAC;4;N;0.33;0.88;Niacin_0.33_0.88
+VAL;NIAC;4;N;0.88;1.14;Niacin_0.88_1.14
+VAL;NIAC;4;N;1.14;1.55;Niacin_1.14_1.55
+VAL;NIAC;4;N;1.55;2.24;Niacin_1.55_2.24
+VAL;NIAC;4;N;2.24;6.83;Niacin_2.24_6.83
+NAME;NIAC;4;N;;;Niacin
+VAL;TRYP;4;N;0.29;0.58;Tryptophan/60_0.29_0.58
+VAL;TRYP;4;N;0.58;0.84;Tryptophan/60_0.58_0.84
+VAL;TRYP;4;N;0.84;1.06;Tryptophan/60_0.84_1.06
+VAL;TRYP;3;N;1.06;1.3;Tryptophan/60_1.06_1.3
+VAL;TRYP;4;N;1.3;3.17;Tryptophan/60_1.3_3.17
+NAME;TRYP;4;N;;;Tryptophan/60
+VAL;NIQE;4;N;0.76;1.61;Niacin equivalent_0.76_1.61
+VAL;NIQE;4;N;1.61;2.05;Niacin equivalent_1.61_2.05
+VAL;NIQE;4;N;2.05;2.47;Niacin equivalent_2.05_2.47
+VAL;NIQE;4;N;2.47;3.52;Niacin equivalent_2.47_3.52
+VAL;NIQE;4;N;3.52;9.19;Niacin equivalent_3.52_9.19
+NAME;NIQE;4;N;;;Niacin equivalent
+VAL;VITC;3;N;0.15;1.7;Vitamin C_0.15_1.7
+VAL;VITC;4;N;1.7;2.93;Vitamin C_1.7_2.93
+VAL;VITC;4;N;2.93;5.53;Vitamin C_2.93_5.53
+VAL;VITC;5;N;5.53;10.31;Vitamin C_5.53_10.31
+VAL;VITC;5;N;10.31;42.14;Vitamin C_10.31_42.14
+NAME;VITC;5;N;;;Vitamin C
+VAL;VITE;4;N;0.25;0.49;Vitamin E_0.25_0.49
+VAL;VITE;4;N;0.49;0.67;Vitamin E_0.49_0.67
+VAL;VITE;4;N;0.67;0.88;Vitamin E_0.67_0.88
+VAL;VITE;4;N;0.88;1.34;Vitamin E_0.88_1.34
+VAL;VITE;4;N;1.34;4.03;Vitamin E_1.34_4.03
+NAME;VITE;4;N;;;Vitamin E
+VAL;B6;4;N;0.02;0.07;Vitamin B6_0.02_0.07
+VAL;B6;4;N;0.07;0.11;Vitamin B6_0.07_0.11
+VAL;B6;4;N;0.11;0.14;Vitamin B6_0.11_0.14
+VAL;B6;4;N;0.14;0.28;Vitamin B6_0.14_0.28
+VAL;B6;4;N;0.28;1.09;Vitamin B6_0.28_1.09
+NAME;B6;4;N;;;Vitamin B6
+VAL;B12;4;N;0.0;0.18;Vitamin B12_0.0_0.18
+VAL;B12;3;N;0.18;0.3;Vitamin B12_0.18_0.3
+VAL;B12;4;N;0.3;0.39;Vitamin B12_0.3_0.39
+VAL;B12;4;N;0.39;0.49;Vitamin B12_0.39_0.49
+VAL;B12;4;N;0.49;1.92;Vitamin B12_0.49_1.92
+NAME;B12;4;N;;;Vitamin B12
+VAL;FOL;4;N;5.86;10.4;Folate_5.86_10.4
+VAL;FOL;5;N;10.4;13.08;Folate_10.4_13.08
+VAL;FOL;5;N;13.08;18.59;Folate_13.08_18.59
+VAL;FOL;5;N;18.59;24.76;Folate_18.59_24.76
+VAL;FOL;5;N;24.76;74.28;Folate_24.76_74.28
+NAME;FOL;5;N;;;Folate
+VAL;PANT;4;N;0.18;0.25;Pantothenic acid_0.18_0.25
+VAL;PANT;4;N;0.25;0.34;Pantothenic acid_0.25_0.34
+VAL;PANT;4;N;0.34;0.49;Pantothenic acid_0.34_0.49
+VAL;PANT;4;N;0.49;0.72;Pantothenic acid_0.49_0.72
+VAL;PANT;4;N;0.72;1.68;Pantothenic acid_0.72_1.68
+NAME;PANT;4;N;;;Pantothenic acid
+VAL;BIOT;4;N;1.11;2.12;Biotin_1.11_2.12
+VAL;BIOT;4;N;2.12;2.69;Biotin_2.12_2.69
+VAL;BIOT;4;N;2.69;3.17;Biotin_2.69_3.17
+VAL;BIOT;4;N;3.17;4.59;Biotin_3.17_4.59
+VAL;BIOT;5;N;4.59;22.98;Biotin_4.59_22.98
+NAME;BIOT;5;N;;;Biotin
+VAL;SOD;4;N;20.55;52.8;Sodium_20.55_52.8
+VAL;SOD;5;N;52.8;93.87;Sodium_52.8_93.87
+VAL;SOD;6;N;93.87;119.87;Sodium_93.87_119.87
+VAL;SOD;6;N;119.87;162.68;Sodium_119.87_162.68
+VAL;SOD;5;N;162.68;613.2;Sodium_162.68_613.2
+NAME;SOD;5;N;;;Sodium
+VAL;POT;5;N;68.6;98.25;Potassium_68.6_98.25
+VAL;POT;6;N;98.25;133.11;Potassium_98.25_133.11
+VAL;POT;6;N;133.11;166.08;Potassium_133.11_166.08
+VAL;POT;5;N;166.08;202.2;Potassium_166.08_202.2
+VAL;POT;6;N;202.2;470.78;Potassium_202.2_470.78
+NAME;POT;6;N;;;Potassium
+VAL;CAL;5;N;8.96;27.81;Calcium_8.96_27.81
+VAL;CAL;5;N;27.81;42.13;Calcium_27.81_42.13
+VAL;CAL;5;N;42.13;52.23;Calcium_42.13_52.23
+VAL;CAL;4;N;52.23;68.6;Calcium_52.23_68.6
+VAL;CAL;6;N;68.6;159.26;Calcium_68.6_159.26
+NAME;CAL;6;N;;;Calcium
+VAL;MG;5;N;6.9;13.27;Magnesium_6.9_13.27
+VAL;MG;5;N;13.27;15.93;Magnesium_13.27_15.93
+VAL;MG;5;N;15.93;18.39;Magnesium_15.93_18.39
+VAL;MG;5;N;18.39;22.65;Magnesium_18.39_22.65
+VAL;MG;4;N;22.65;41.1;Magnesium_22.65_41.1
+NAME;MG;4;N;;;Magnesium
+VAL;PHOS;5;N;34.54;48.97;Phosphorus_34.54_48.97
+VAL;PHOS;5;N;48.97;62.75;Phosphorus_48.97_62.75
+VAL;PHOS;5;N;62.75;75.08;Phosphorus_62.75_75.08
+VAL;PHOS;6;N;75.08;101.78;Phosphorus_75.08_101.78
+VAL;PHOS;6;N;101.78;291.23;Phosphorus_101.78_291.23
+NAME;PHOS;6;N;;;Phosphorus
+VAL;IRON;4;N;0.28;0.46;Iron_0.28_0.46
+VAL;IRON;4;N;0.46;0.56;Iron_0.46_0.56
+VAL;IRON;4;N;0.56;0.74;Iron_0.56_0.74
+VAL;IRON;4;N;0.74;0.95;Iron_0.74_0.95
+VAL;IRON;3;N;0.95;2.8;Iron_0.95_2.8
+NAME;IRON;3;N;;;Iron
+VAL;HAIR;4;N;0.0;0.01;Haem iron_0.0_0.01
+VAL;HAIR;4;N;0.01;0.02;Haem iron_0.01_0.02
+VAL;HAIR;4;N;0.02;0.04;Haem iron_0.02_0.04
+VAL;HAIR;4;N;0.04;0.07;Haem iron_0.04_0.07
+VAL;HAIR;4;N;0.07;0.53;Haem iron_0.07_0.53
+NAME;HAIR;4;N;;;Haem iron
+VAL;NIRN;4;N;0.26;0.43;Non-haem iron_0.26_0.43
+VAL;NIRN;4;N;0.43;0.53;Non-haem iron_0.43_0.53
+VAL;NIRN;4;N;0.53;0.71;Non-haem iron_0.53_0.71
+VAL;NIRN;3;N;0.71;0.9;Non-haem iron_0.71_0.9
+VAL;NIRN;4;N;0.9;2.43;Non-haem iron_0.9_2.43
+NAME;NIRN;4;N;;;Non-haem iron
+VAL;COPP;4;N;0.03;0.05;Copper_0.03_0.05
+VAL;COPP;4;N;0.05;0.07;Copper_0.05_0.07
+VAL;COPP;4;N;0.07;0.09;Copper_0.07_0.09
+VAL;COPP;4;N;0.09;0.11;Copper_0.09_0.11
+VAL;COPP;4;N;0.11;0.22;Copper_0.11_0.22
+NAME;COPP;4;N;;;Copper
+VAL;ZN;4;N;0.28;0.44;Zinc_0.28_0.44
+VAL;ZN;4;N;0.44;0.54;Zinc_0.44_0.54
+VAL;ZN;3;N;0.54;0.7;Zinc_0.54_0.7
+VAL;ZN;3;N;0.7;0.9;Zinc_0.7_0.9
+VAL;ZN;4;N;0.9;3.87;Zinc_0.9_3.87
+NAME;ZN;4;N;;;Zinc
+VAL;CL;5;N;58.51;98.04;Chloride_58.51_98.04
+VAL;CL;6;N;98.04;152.74;Chloride_98.04_152.74
+VAL;CL;6;N;152.74;200.91;Chloride_152.74_200.91
+VAL;CL;6;N;200.91;251.01;Chloride_200.91_251.01
+VAL;CL;6;N;251.01;803.63;Chloride_251.01_803.63
+NAME;CL;6;N;;;Chloride
+VAL;IOD;4;N;1.21;5.66;Iodine_1.21_5.66
+VAL;IOD;4;N;5.66;8.64;Iodine_5.66_8.64
+VAL;IOD;5;N;8.64;12.34;Iodine_8.64_12.34
+VAL;IOD;5;N;12.34;16.61;Iodine_12.34_16.61
+VAL;IOD;5;N;16.61;87.03;Iodine_16.61_87.03
+NAME;IOD;5;N;;;Iodine
+VAL;MN;4;N;0.09;0.13;Manganese_0.09_0.13
+VAL;MN;4;N;0.13;0.18;Manganese_0.13_0.18
+VAL;MN;4;N;0.18;0.24;Manganese_0.18_0.24
+VAL;MN;3;N;0.24;0.3;Manganese_0.24_0.3
+VAL;MN;3;N;0.3;0.5;Manganese_0.3_0.5
+NAME;MN;3;N;;;Manganese
+VAL;SE;4;N;1.21;2.58;Selenium_1.21_2.58
+VAL;SE;4;N;2.58;3.38;Selenium_2.58_3.38
+VAL;SE;3;N;3.38;4.5;Selenium_3.38_4.5
+VAL;SE;3;N;4.5;6.4;Selenium_4.5_6.4
+VAL;SE;5;N;6.4;16.73;Selenium_6.4_16.73
+NAME;SE;5;N;;;Selenium
+VAL;TFS;4;N;0.01;0.87;Total FS_0.01_0.87
+VAL;TFS;4;N;0.87;1.44;Total FS_0.87_1.44
+VAL;TFS;4;N;1.44;2.06;Total FS_1.44_2.06
+VAL;TFS;4;N;2.06;3.32;Total FS_2.06_3.32
+VAL;TFS;5;N;3.32;13.02;Total FS_3.32_13.02
+NAME;TFS;5;N;;;Total FS
+VAL;FRUT;4;N;0.0;1.48;Fruit_0.0_1.48
+VAL;FRUT;4;N;1.48;3.07;Fruit_1.48_3.07
+VAL;FRUT;4;N;3.07;4.93;Fruit_3.07_4.93
+VAL;FRUT;4;N;4.93;7.46;Fruit_4.93_7.46
+VAL;FRUT;5;N;7.46;42.28;Fruit_7.46_42.28
+NAME;FRUT;5;N;;;Fruit
+VAL;DRFR;4;N;0.0;0.05;Dried fruit_0.0_0.05
+VAL;DRFR;4;N;0.05;0.22;Dried fruit_0.05_0.22
+VAL;DRFR;4;N;0.22;2.25;Dried fruit_0.22_2.25
+NAME;DRFR;4;N;;;Dried fruit
+VAL;FJUI;4;N;0.0;0.06;Fruit juice_0.0_0.06
+VAL;FJUI;4;N;0.06;0.28;Fruit juice_0.06_0.28
+VAL;FJUI;4;N;0.28;1.44;Fruit juice_0.28_1.44
+VAL;FJUI;3;N;1.44;9.3;Fruit juice_1.44_9.3
+NAME;FJUI;3;N;;;Fruit juice
+VAL;SMFR;4;N;0.0;4.11;Smoothie fruit_0.0_4.11
+NAME;SMFR;4;N;;;Smoothie fruit
+VAL;TOMA;4;N;0.0;0.19;Tomatoes_0.0_0.19
+VAL;TOMA;4;N;0.19;0.76;Tomatoes_0.19_0.76
+VAL;TOMA;4;N;0.76;1.53;Tomatoes_0.76_1.53
+VAL;TOMA;4;N;1.53;3.11;Tomatoes_1.53_3.11
+VAL;TOMA;4;N;3.11;9.81;Tomatoes_3.11_9.81
+NAME;TOMA;4;N;;;Tomatoes
+VAL;TPUR;3;N;0.0;0.0;Tomato puree_0.0_0.0
+VAL;TPUR;4;N;0.0;0.08;Tomato puree_0.0_0.08
+VAL;TPUR;4;N;0.08;0.16;Tomato puree_0.08_0.16
+VAL;TPUR;4;N;0.16;0.57;Tomato puree_0.16_0.57
+VAL;TPUR;3;N;0.57;4.9;Tomato puree_0.57_4.9
+NAME;TPUR;3;N;;;Tomato puree
+VAL;BRAS;4;N;0.0;0.07;Brassicaceae_0.0_0.07
+VAL;BRAS;4;N;0.07;0.46;Brassicaceae_0.07_0.46
+VAL;BRAS;4;N;0.46;2.01;Brassicaceae_0.46_2.01
+VAL;BRAS;3;N;2.01;8.2;Brassicaceae_2.01_8.2
+NAME;BRAS;3;N;;;Brassicaceae
+VAL;YRG;4;N;0.0;0.14;Yellow Red Green_0.0_0.14
+VAL;YRG;4;N;0.14;0.73;Yellow Red Green_0.14_0.73
+VAL;YRG;4;N;0.73;1.51;Yellow Red Green_0.73_1.51
+VAL;YRG;4;N;1.51;2.44;Yellow Red Green_1.51_2.44
+VAL;YRG;4;N;2.44;5.85;Yellow Red Green_2.44_5.85
+NAME;YRG;4;N;;;Yellow Red Green
+VAL;BEAN;4;N;0.0;0.13;Beans_0.0_0.13
+VAL;BEAN;4;N;0.13;0.91;Beans_0.13_0.91
+VAL;BEAN;4;N;0.91;2.06;Beans_0.91_2.06
+VAL;BEAN;5;N;2.06;12.96;Beans_2.06_12.96
+NAME;BEAN;5;N;;;Beans
+VAL;NUT;4;N;0.0;0.07;Nuts_0.0_0.07
+VAL;NUT;4;N;0.07;0.43;Nuts_0.07_0.43
+VAL;NUT;4;N;0.43;1.34;Nuts_0.43_1.34
+VAL;NUT;3;N;1.34;6.8;Nuts_1.34_6.8
+NAME;NUT;3;N;;;Nuts
+VAL;OVEG;4;N;0.22;1.69;Other Vegetables_0.22_1.69
+VAL;OVEG;4;N;1.69;3.07;Other Vegetables_1.69_3.07
+VAL;OVEG;3;N;3.07;4.0;Other Vegetables_3.07_4.0
+VAL;OVEG;4;N;4.0;5.57;Other Vegetables_4.0_5.57
+VAL;OVEG;5;N;5.57;50.03;Other Vegetables_5.57_50.03
+NAME;OVEG;5;N;;;Other Vegetables
+VAL;BEEF;4;N;0.0;0.45;Beef_0.0_0.45
+VAL;BEEF;4;N;0.45;1.86;Beef_0.45_1.86
+VAL;BEEF;5;N;1.86;11.12;Beef_1.86_11.12
+NAME;BEEF;5;N;;;Beef
+VAL;LAMB;4;N;0.0;7.65;Lamb_0.0_7.65
+NAME;LAMB;4;N;;;Lamb
+VAL;PORK;4;N;0.0;0.01;Pork_0.0_0.01
+VAL;PORK;4;N;0.01;5.91;Pork_0.01_5.91
+NAME;PORK;4;N;;;Pork
+VAL;PRRM;4;N;0.0;0.27;Processed Red Meat_0.0_0.27
+VAL;PRRM;4;N;0.27;1.08;Processed Red Meat_0.27_1.08
+VAL;PRRM;4;N;1.08;5.97;Processed Red Meat_1.08_5.97
+NAME;PRRM;4;N;;;Processed Red Meat
+VAL;ORRM;3;N;0.0;0.0;Other Red Meat_0.0_0.0
+NAME;ORRM;3;N;;;Other Red Meat
+VAL;BURG;3;N;0.0;0.1;Burgers_0.0_0.1
+VAL;BURG;5;N;0.1;56.75;Burgers_0.1_56.75
+NAME;BURG;5;N;;;Burgers
+VAL;SAUS;4;N;0.0;0.03;Sausages_0.0_0.03
+VAL;SAUS;4;N;0.03;2.83;Sausages_0.03_2.83
+NAME;SAUS;4;N;;;Sausages
+VAL;OFFL;3;N;0.0;0.0;Offal_0.0_0.0
+VAL;OFFL;4;N;0.42;0.42;Offal_0.42_0.42
+VAL;OFFL;3;N;0.5;0.5;Offal_0.5_0.5
+VAL;OFFL;4;N;0.98;0.98;Offal_0.98_0.98
+VAL;OFFL;4;N;1.05;1.05;Offal_1.05_1.05
+NAME;OFFL;4;N;;;Offal
+VAL;POUL;4;N;0.0;0.98;Poultry_0.0_0.98
+VAL;POUL;4;N;0.98;2.26;Poultry_0.98_2.26
+VAL;POUL;4;N;2.26;4.07;Poultry_2.26_4.07
+VAL;POUL;5;N;4.07;12.08;Poultry_4.07_12.08
+NAME;POUL;5;N;;;Poultry
+VAL;PRPL;3;N;0.0;0.0;Processed Poultry_0.0_0.0
+VAL;PRPL;4;N;0.11;0.11;Processed Poultry_0.11_0.11
+VAL;PRPL;4;N;0.52;0.52;Processed Poultry_0.52_0.52
+VAL;PRPL;4;N;0.56;0.56;Processed Poultry_0.56_0.56
+VAL;PRPL;4;N;0.96;0.96;Processed Poultry_0.96_0.96
+NAME;PRPL;4;N;;;Processed Poultry
+VAL;GMB;5;N;0.0;17.23;Game Birds_0.0_17.23
+NAME;GMB;5;N;;;Game Birds
+VAL;WFIS;4;N;0.0;1.41;White Fish_0.0_1.41
+VAL;WFIS;3;N;1.41;4.5;White Fish_1.41_4.5
+NAME;WFIS;3;N;;;White Fish
+VAL;OFIS;3;N;0.0;3.1;Oily Fish_0.0_3.1
+NAME;OFIS;3;N;;;Oily Fish
+VAL;CTUN;4;N;0.0;2.89;Canned Tuna_0.0_2.89
+NAME;CTUN;4;N;;;Canned Tuna
+VAL;SHEL;4;N;0.0;0.06;Shellfish_0.0_0.06
+VAL;SHEL;4;N;0.06;1.19;Shellfish_0.06_1.19
+NAME;SHEL;4;N;;;Shellfish
+VAL;CCHE;3;N;0.0;0.0;Cottage Cheese_0.0_0.0
+VAL;CCHE;4;N;0.41;0.41;Cottage Cheese_0.41_0.41
+VAL;CCHE;4;N;0.74;0.74;Cottage Cheese_0.74_0.74
+VAL;CCHE;4;N;1.47;1.47;Cottage Cheese_1.47_1.47
+NAME;CCHE;4;N;;;Cottage Cheese
+VAL;CHEC;4;N;0.0;0.31;Cheddar Cheese_0.0_0.31
+VAL;CHEC;4;N;0.31;0.86;Cheddar Cheese_0.31_0.86
+VAL;CHEC;4;N;0.86;3.27;Cheddar Cheese_0.86_3.27
+NAME;CHEC;4;N;;;Cheddar Cheese
+VAL;OTCH;4;N;0.0;0.07;Other Cheese_0.0_0.07
+VAL;OTCH;4;N;0.07;0.27;Other Cheese_0.07_0.27
+VAL;OTCH;3;N;0.27;0.8;Other Cheese_0.27_0.8
+VAL;OTCH;5;N;0.8;11.11;Other Cheese_0.8_11.11
+NAME;OTCH;5;N;;;Other Cheese
+VAL;ABSI;4;N;0.07;0.08;absi(a-body-shaped-index)_0.07_0.08
+VAL;ABSI;4;N;0.08;0.08;absi(a-body-shaped-index)_0.08_0.08
+VAL;ABSI;4;N;0.08;0.08;absi(a-body-shaped-index)_0.08_0.08
+VAL;ABSI;4;N;0.08;0.08;absi(a-body-shaped-index)_0.08_0.08
+VAL;ABSI;4;N;0.08;0.09;absi(a-body-shaped-index)_0.08_0.09
+NAME;ABSI;4;N;;;absi(a-body-shaped-index)
+VAL;AC;5;N;31.4;32.56;ac-(arm-circumference)_31.4_32.56
+VAL;AC;5;N;32.56;34.52;ac-(arm-circumference)_32.56_34.52
+VAL;AC;5;N;34.52;36.08;ac-(arm-circumference)_34.52_36.08
+VAL;AC;5;N;36.08;37.84;ac-(arm-circumference)_36.08_37.84
+VAL;AC;4;N;37.84;45.6;ac-(arm-circumference)_37.84_45.6
+NAME;AC;4;N;;;ac-(arm-circumference)
+VAL;AE;6;N;-105.28;-87.42;ae_-105.28_-87.42
+VAL;AE;6;N;-87.42;-81.71;ae_-87.42_-81.71
+VAL;AE;6;N;-81.71;-71.89;ae_-81.71_-71.89
+VAL;AE;6;N;-71.89;-62.74;ae_-71.89_-62.74
+VAL;AE;6;N;-62.74;-45.53;ae_-62.74_-45.53
+NAME;AE;6;N;;;ae
+VAL;AFLL;4;N;1.31;1.35;af-ll(abdominal-fat-llimit)_1.31_1.35
+VAL;AFLL;3;N;1.35;1.4;af-ll(abdominal-fat-llimit)_1.35_1.4
+VAL;AFLL;4;N;1.4;1.45;af-ll(abdominal-fat-llimit)_1.4_1.45
+VAL;AFLL;3;N;1.45;1.5;af-ll(abdominal-fat-llimit)_1.45_1.5
+VAL;AFLL;4;N;1.5;1.56;af-ll(abdominal-fat-llimit)_1.5_1.56
+NAME;AFLL;4;N;;;af-ll(abdominal-fat-llimit)
+VAL;AFUL;4;N;2.62;2.71;af-ul(abdominal-fat-ulimit)_2.62_2.71
+VAL;AFUL;3;N;2.71;2.8;af-ul(abdominal-fat-ulimit)_2.71_2.8
+VAL;AFUL;4;N;2.8;2.91;af-ul(abdominal-fat-ulimit)_2.8_2.91
+VAL;AFUL;4;N;2.91;2.99;af-ul(abdominal-fat-ulimit)_2.91_2.99
+VAL;AFUL;4;N;2.99;3.11;af-ul(abdominal-fat-ulimit)_2.99_3.11
+NAME;AFUL;4;N;;;af-ul(abdominal-fat-ulimit)
+VAL;AGEP;4;N;36.0;49.0;age_36.0_49.0
+VAL;AGEP;4;N;49.0;58.0;age_49.0_58.0
+VAL;AGEP;4;N;58.0;65.0;age_58.0_65.0
+NAME;AGEP;4;N;;;age
+VAL;AI;5;N;-139.12;-97.0;ai_-139.12_-97.0
+VAL;AI;6;N;-97.0;-74.18;ai_-97.0_-74.18
+VAL;AI;6;N;-74.18;-53.53;ai_-74.18_-53.53
+VAL;AI;6;N;-53.53;-30.68;ai_-53.53_-30.68
+VAL;AI;4;N;-30.68;30.4;ai_-30.68_30.4
+NAME;AI;4;N;;;ai
+VAL;AMC;5;N;24.9;27.56;amc-(arm-muscle-circumference)_24.9_27.56
+VAL;AMC;5;N;27.56;28.52;amc-(arm-muscle-circumference)_27.56_28.52
+VAL;AMC;5;N;28.52;29.84;amc-(arm-muscle-circumference)_28.52_29.84
+VAL;AMC;4;N;29.84;30.9;amc-(arm-muscle-circumference)_29.84_30.9
+VAL;AMC;4;N;30.9;34.4;amc-(arm-muscle-circumference)_30.9_34.4
+NAME;AMC;4;N;;;amc-(arm-muscle-circumference)
+VAL;ANAC;5;N;67.6;93.56;ans-activity_67.6_93.56
+VAL;ANAC;5;N;93.56;104.8;ans-activity_93.56_104.8
+VAL;ANAC;5;N;104.8;115.9;ans-activity_104.8_115.9
+VAL;ANAC;6;N;115.9;129.48;ans-activity_115.9_129.48
+VAL;ANAC;5;N;129.48;150.0;ans-activity_129.48_150.0
+NAME;ANAC;5;N;;;ans-activity
+VAL;ANBL;4;N;0.5;24.8;ans-balance_0.5_24.8
+VAL;ANBL;4;N;24.8;52.0;ans-balance_24.8_52.0
+VAL;ANBL;5;N;52.0;71.76;ans-balance_52.0_71.76
+VAL;ANBL;6;N;71.76;106.46;ans-balance_71.76_106.46
+VAL;ANBL;5;N;106.46;139.5;ans-balance_106.46_139.5
+NAME;ANBL;5;N;;;ans-balance
+VAL;APEN;4;N;0.44;0.68;apen_0.44_0.68
+VAL;APEN;4;N;0.68;0.83;apen_0.68_0.83
+VAL;APEN;4;N;0.83;0.97;apen_0.83_0.97
+VAL;APEN;4;N;0.97;1.06;apen_0.97_1.06
+VAL;APEN;4;N;1.06;1.25;apen_1.06_1.25
+NAME;APEN;4;N;;;apen
+VAL;ALFT;5;N;9.1;10.62;arms/legs-fat_9.1_10.62
+VAL;ALFT;5;N;10.62;12.42;arms/legs-fat_10.62_12.42
+VAL;ALFT;5;N;12.42;15.88;arms/legs-fat_12.42_15.88
+VAL;ALFT;5;N;15.88;18.52;arms/legs-fat_15.88_18.52
+VAL;ALFT;4;N;18.52;33.2;arms/legs-fat_18.52_33.2
+NAME;ALFT;4;N;;;arms/legs-fat
+VAL;BAI;4;N;26.2;28.9;bai(body-adiposity-index)_26.2_28.9
+VAL;BAI;5;N;28.9;30.44;bai(body-adiposity-index)_28.9_30.44
+VAL;BAI;5;N;30.44;32.98;bai(body-adiposity-index)_30.44_32.98
+VAL;BAI;5;N;32.98;36.02;bai(body-adiposity-index)_32.98_36.02
+VAL;BAI;4;N;36.02;44.2;bai(body-adiposity-index)_36.02_44.2
+NAME;BAI;4;N;;;bai(body-adiposity-index)
+VAL;BCM;5;N;23.2;28.76;bcm-(body-cell-mass)_23.2_28.76
+VAL;BCM;4;N;28.76;32.5;bcm-(body-cell-mass)_28.76_32.5
+VAL;BCM;5;N;32.5;34.04;bcm-(body-cell-mass)_32.5_34.04
+VAL;BCM;4;N;34.04;37.8;bcm-(body-cell-mass)_34.04_37.8
+VAL;BCM;4;N;37.8;43.8;bcm-(body-cell-mass)_37.8_43.8
+NAME;BCM;4;N;;;bcm-(body-cell-mass)
+VAL;BFA;5;N;9.2;10.52;bfm-of-arm-&-leg_9.2_10.52
+VAL;BFA;4;N;10.52;12.4;bfm-of-arm-&-leg_10.52_12.4
+VAL;BFA;5;N;12.4;15.88;bfm-of-arm-&-leg_12.4_15.88
+VAL;BFA;5;N;15.88;18.56;bfm-of-arm-&-leg_15.88_18.56
+VAL;BFA;4;N;18.56;33.2;bfm-of-arm-&-leg_18.56_33.2
+NAME;BFA;4;N;;;bfm-of-arm-&-leg
+VAL;BFMC;6;N;-45.3;-27.64;bfm-control_-45.3_-27.64
+VAL;BFMC;5;N;-27.64;-20.4;bfm-control_-27.64_-20.4
+VAL;BFMC;6;N;-20.4;-15.66;bfm-control_-20.4_-15.66
+VAL;BFMC;6;N;-15.66;-13.58;bfm-control_-15.66_-13.58
+VAL;BFMC;4;N;-13.58;-8.4;bfm-control_-13.58_-8.4
+NAME;BFMC;4;N;;;bfm-control
+VAL;BFLA;3;N;1.4;1.7;bfm-of-left-arm_1.4_1.7
+VAL;BFLA;4;N;1.7;2.12;bfm-of-left-arm_1.7_2.12
+VAL;BFLA;3;N;2.12;3.0;bfm-of-left-arm_2.12_3.0
+VAL;BFLA;3;N;3.0;3.7;bfm-of-left-arm_3.0_3.7
+VAL;BFLA;3;N;3.7;7.8;bfm-of-left-arm_3.7_7.8
+NAME;BFLA;3;N;;;bfm-of-left-arm
+VAL;BFLL;4;N;3.1;3.56;bfm-of-left-leg_3.1_3.56
+VAL;BFLL;3;N;3.56;4.1;bfm-of-left-leg_3.56_4.1
+VAL;BFLL;4;N;4.1;4.88;bfm-of-left-leg_4.1_4.88
+VAL;BFLL;4;N;4.88;5.66;bfm-of-left-leg_4.88_5.66
+VAL;BFLL;3;N;5.66;8.9;bfm-of-left-leg_5.66_8.9
+NAME;BFLL;3;N;;;bfm-of-left-leg
+VAL;BFRA;3;N;1.4;1.7;bfm-of-right-arm_1.4_1.7
+VAL;BFRA;4;N;1.7;2.12;bfm-of-right-arm_1.7_2.12
+VAL;BFRA;3;N;2.12;3.0;bfm-of-right-arm_2.12_3.0
+VAL;BFRA;3;N;3.0;3.7;bfm-of-right-arm_3.0_3.7
+VAL;BFRA;3;N;3.7;7.7;bfm-of-right-arm_3.7_7.7
+NAME;BFRA;3;N;;;bfm-of-right-arm
+VAL;BFRL;4;N;3.1;3.56;bfm-of-right-leg_3.1_3.56
+VAL;BFRL;3;N;3.56;4.1;bfm-of-right-leg_3.56_4.1
+VAL;BFRL;4;N;4.1;4.88;bfm-of-right-leg_4.1_4.88
+VAL;BFRL;4;N;4.88;5.66;bfm-of-right-leg_4.88_5.66
+VAL;BFRL;3;N;5.66;8.8;bfm-of-right-leg_5.66_8.8
+NAME;BFRL;3;N;;;bfm-of-right-leg
+VAL;BFTR;5;N;12.0;12.94;bfm-of-trunk_12.0_12.94
+VAL;BFTR;4;N;12.94;14.8;bfm-of-trunk_12.94_14.8
+VAL;BFTR;5;N;14.8;17.88;bfm-of-trunk_14.8_17.88
+VAL;BFTR;4;N;17.88;21.6;bfm-of-trunk_17.88_21.6
+VAL;BFTR;4;N;21.6;27.3;bfm-of-trunk_21.6_27.3
+NAME;BFTR;4;N;;;bfm-of-trunk
+VAL;BFM;5;N;22.4;24.78;bfm-(body-fat-mass)_22.4_24.78
+VAL;BFM;5;N;24.78;28.32;bfm-(body-fat-mass)_24.78_28.32
+VAL;BFM;5;N;28.32;35.08;bfm-(body-fat-mass)_28.32_35.08
+VAL;BFM;5;N;35.08;40.38;bfm-(body-fat-mass)_35.08_40.38
+VAL;BFM;4;N;40.38;62.3;bfm-(body-fat-mass)_40.38_62.3
+NAME;BFM;4;N;;;bfm-(body-fat-mass)
+VAL;BMC;4;N;2.09;2.61;bmc-(bone-mineral-content)_2.09_2.61
+VAL;BMC;4;N;2.61;2.92;bmc-(bone-mineral-content)_2.61_2.92
+VAL;BMC;4;N;2.92;3.09;bmc-(bone-mineral-content)_2.92_3.09
+VAL;BMC;4;N;3.09;3.48;bmc-(bone-mineral-content)_3.09_3.48
+VAL;BMC;4;N;3.48;3.86;bmc-(bone-mineral-content)_3.48_3.86
+NAME;BMC;4;N;;;bmc-(bone-mineral-content)
+VAL;BMI;5;N;25.7;28.82;bmi-(body-mass-index)_25.7_28.82
+VAL;BMI;5;N;28.82;29.62;bmi-(body-mass-index)_28.82_29.62
+VAL;BMI;4;N;29.62;30.7;bmi-(body-mass-index)_29.62_30.7
+VAL;BMI;5;N;30.7;33.74;bmi-(body-mass-index)_30.7_33.74
+VAL;BMI;4;N;33.74;42.6;bmi-(body-mass-index)_33.74_42.6
+NAME;BMI;4;N;;;bmi-(body-mass-index)
+VAL;BMR;6;N;1137.0;1325.6;bmr-(basal-metabolic-rate)_1137.0_1325.6
+VAL;BMR;6;N;1325.6;1448.0;bmr-(basal-metabolic-rate)_1325.6_1448.0
+VAL;BMR;6;N;1448.0;1495.8;bmr-(basal-metabolic-rate)_1448.0_1495.8
+VAL;BMR;6;N;1495.8;1636.4;bmr-(basal-metabolic-rate)_1495.8_1636.4
+VAL;BMR;6;N;1636.4;1806.0;bmr-(basal-metabolic-rate)_1636.4_1806.0
+NAME;BMR;6;N;;;bmr-(basal-metabolic-rate)
+VAL;CONI;4;N;1.2;1.26;conicity-index_1.2_1.26
+VAL;CONI;4;N;1.26;1.29;conicity-index_1.26_1.29
+VAL;CONI;4;N;1.29;1.34;conicity-index_1.29_1.34
+VAL;CONI;4;N;1.34;1.42;conicity-index_1.34_1.42
+VAL;CONI;4;N;1.42;1.48;conicity-index_1.42_1.48
+NAME;CONI;4;N;;;conicity-index
+VAL;ECMB;4;N;0.49;0.53;ecm/bcm_0.49_0.53
+VAL;ECMB;4;N;0.53;0.53;ecm/bcm_0.53_0.53
+VAL;ECMB;4;N;0.53;0.54;ecm/bcm_0.53_0.54
+VAL;ECMB;4;N;0.54;0.55;ecm/bcm_0.54_0.55
+VAL;ECMB;4;N;0.55;0.56;ecm/bcm_0.55_0.56
+NAME;ECMB;4;N;;;ecm/bcm
+VAL;ECTB;4;N;0.0;22.0;ectopic-beat_0.0_22.0
+NAME;ECTB;4;N;;;ectopic-beat
+VAL;ECLA;4;N;0.52;0.71;ecw-of-left-arm_0.52_0.71
+VAL;ECLA;3;N;0.71;0.8;ecw-of-left-arm_0.71_0.8
+VAL;ECLA;4;N;0.8;0.84;ecw-of-left-arm_0.8_0.84
+VAL;ECLA;4;N;0.84;0.97;ecw-of-left-arm_0.84_0.97
+VAL;ECLA;4;N;0.97;1.13;ecw-of-left-arm_0.97_1.13
+NAME;ECLA;4;N;;;ecw-of-left-arm
+VAL;ECLL;4;N;1.49;1.89;ecw-of-left-leg_1.49_1.89
+VAL;ECLL;4;N;1.89;2.18;ecw-of-left-leg_1.89_2.18
+VAL;ECLL;4;N;2.18;2.35;ecw-of-left-leg_2.18_2.35
+VAL;ECLL;4;N;2.35;2.56;ecw-of-left-leg_2.35_2.56
+VAL;ECLL;4;N;2.56;3.05;ecw-of-left-leg_2.56_3.05
+NAME;ECLL;4;N;;;ecw-of-left-leg
+VAL;ECRA;3;N;0.51;0.7;ecw-of-right-arm_0.51_0.7
+VAL;ECRA;4;N;0.7;0.81;ecw-of-right-arm_0.7_0.81
+VAL;ECRA;4;N;0.81;0.85;ecw-of-right-arm_0.81_0.85
+VAL;ECRA;4;N;0.85;0.96;ecw-of-right-arm_0.85_0.96
+VAL;ECRA;4;N;0.96;1.12;ecw-of-right-arm_0.96_1.12
+NAME;ECRA;4;N;;;ecw-of-right-arm
+VAL;ECRL;4;N;1.49;1.89;ecw-of-right-leg_1.49_1.89
+VAL;ECRL;4;N;1.89;2.13;ecw-of-right-leg_1.89_2.13
+VAL;ECRL;4;N;2.13;2.37;ecw-of-right-leg_2.13_2.37
+VAL;ECRL;4;N;2.37;2.56;ecw-of-right-leg_2.37_2.56
+VAL;ECRL;4;N;2.56;3.04;ecw-of-right-leg_2.56_3.04
+NAME;ECRL;4;N;;;ecw-of-right-leg
+VAL;ECTR;4;N;5.0;6.08;ecw-of-trunk_5.0_6.08
+VAL;ECTR;4;N;6.08;6.72;ecw-of-trunk_6.08_6.72
+VAL;ECTR;3;N;6.72;7.1;ecw-of-trunk_6.72_7.1
+VAL;ECTR;3;N;7.1;7.8;ecw-of-trunk_7.1_7.8
+VAL;ECTR;3;N;7.8;8.9;ecw-of-trunk_7.8_8.9
+NAME;ECTR;3;N;;;ecw-of-trunk
+VAL;ECW;5;N;9.8;12.46;ecw-(extracellular-water)_9.8_12.46
+VAL;ECW;5;N;12.46;13.92;ecw-(extracellular-water)_12.46_13.92
+VAL;ECW;4;N;13.92;14.5;ecw-(extracellular-water)_13.92_14.5
+VAL;ECW;4;N;14.5;16.6;ecw-(extracellular-water)_14.5_16.6
+VAL;ECW;4;N;16.6;18.2;ecw-(extracellular-water)_16.6_18.2
+NAME;ECW;4;N;;;ecw-(extracellular-water)
+VAL;ECTLA;4;N;0.36;0.38;ecw/tbw-of-left-arm_0.36_0.38
+VAL;ECTLA;4;N;0.38;0.38;ecw/tbw-of-left-arm_0.38_0.38
+VAL;ECTLA;4;N;0.38;0.38;ecw/tbw-of-left-arm_0.38_0.38
+VAL;ECTLA;4;N;0.38;0.38;ecw/tbw-of-left-arm_0.38_0.38
+VAL;ECTLA;4;N;0.38;0.39;ecw/tbw-of-left-arm_0.38_0.39
+NAME;ECTLA;4;N;;;ecw/tbw-of-left-arm
+VAL;ECTLL;4;N;0.36;0.37;ecw/tbw-of-left-leg_0.36_0.37
+VAL;ECTLL;4;N;0.37;0.38;ecw/tbw-of-left-leg_0.37_0.38
+VAL;ECTLL;4;N;0.38;0.38;ecw/tbw-of-left-leg_0.38_0.38
+VAL;ECTLL;4;N;0.38;0.39;ecw/tbw-of-left-leg_0.38_0.39
+VAL;ECTLL;3;N;0.39;0.4;ecw/tbw-of-left-leg_0.39_0.4
+NAME;ECTLL;3;N;;;ecw/tbw-of-left-leg
+VAL;ETAR;4;N;0.36;0.37;ecw/tbw-of-right-arm_0.36_0.37
+VAL;ETAR;4;N;0.37;0.38;ecw/tbw-of-right-arm_0.37_0.38
+VAL;ETAR;4;N;0.38;0.38;ecw/tbw-of-right-arm_0.38_0.38
+VAL;ETAR;4;N;0.38;0.38;ecw/tbw-of-right-arm_0.38_0.38
+VAL;ETAR;4;N;0.38;0.39;ecw/tbw-of-right-arm_0.38_0.39
+NAME;ETAR;4;N;;;ecw/tbw-of-right-arm
+VAL;ETLR;4;N;0.35;0.37;ecw/tbw-of-right-leg_0.35_0.37
+VAL;ETLR;4;N;0.37;0.38;ecw/tbw-of-right-leg_0.37_0.38
+VAL;ETLR;4;N;0.38;0.38;ecw/tbw-of-right-leg_0.38_0.38
+VAL;ETLR;4;N;0.38;0.39;ecw/tbw-of-right-leg_0.38_0.39
+VAL;ETLR;3;N;0.39;0.4;ecw/tbw-of-right-leg_0.39_0.4
+NAME;ETLR;3;N;;;ecw/tbw-of-right-leg
+VAL;ECTRT;4;N;0.36;0.37;ecw/tbw-of-trunk_0.36_0.37
+VAL;ECTRT;4;N;0.37;0.38;ecw/tbw-of-trunk_0.37_0.38
+VAL;ECTRT;4;N;0.38;0.38;ecw/tbw-of-trunk_0.38_0.38
+VAL;ECTRT;4;N;0.38;0.39;ecw/tbw-of-trunk_0.38_0.39
+VAL;ECTRT;4;N;0.39;0.39;ecw/tbw-of-trunk_0.39_0.39
+NAME;ECTRT;4;N;;;ecw/tbw-of-trunk
+VAL;ECTW;4;N;0.36;0.37;ecw/tbw_0.36_0.37
+VAL;ECTW;4;N;0.37;0.38;ecw/tbw_0.37_0.38
+VAL;ECTW;4;N;0.38;0.38;ecw/tbw_0.38_0.38
+VAL;ECTW;4;N;0.38;0.39;ecw/tbw_0.38_0.39
+VAL;ECTW;4;N;0.39;0.39;ecw/tbw_0.39_0.39
+NAME;ECTW;4;N;;;ecw/tbw
+VAL;EC;6;N;57.1;100.12;electro-cardiac-stability_57.1_100.12
+VAL;EC;5;N;100.12;110.0;electro-cardiac-stability_100.12_110.0
+VAL;EC;6;N;110.0;121.66;electro-cardiac-stability_110.0_121.66
+VAL;EC;6;N;121.66;132.04;electro-cardiac-stability_121.66_132.04
+VAL;EC;5;N;132.04;150.0;electro-cardiac-stability_132.04_150.0
+NAME;EC;5;N;;;electro-cardiac-stability
+VAL;FATI;5;N;50.0;75.88;fatigue-index_50.0_75.88
+VAL;FATI;4;N;75.88;89.2;fatigue-index_75.88_89.2
+VAL;FATI;4;N;89.2;97.8;fatigue-index_89.2_97.8
+VAL;FATI;6;N;97.8;107.12;fatigue-index_97.8_107.12
+VAL;FATI;5;N;107.12;138.2;fatigue-index_107.12_138.2
+NAME;FATI;5;N;;;fatigue-index
+VAL;FFMC;3;N;0.0;3.7;ffm-control_0.0_3.7
+NAME;FFMC;3;N;;;ffm-control
+VAL;FFM;4;N;35.5;44.3;ffm-(fat-free-mass)_35.5_44.3
+VAL;FFM;4;N;44.3;49.9;ffm-(fat-free-mass)_44.3_49.9
+VAL;FFM;4;N;49.9;52.1;ffm-(fat-free-mass)_49.9_52.1
+VAL;FFM;4;N;52.1;58.6;ffm-(fat-free-mass)_52.1_58.6
+VAL;FFM;4;N;58.6;66.5;ffm-(fat-free-mass)_58.6_66.5
+NAME;FFM;4;N;;;ffm-(fat-free-mass)
+VAL;FFMI;5;N;15.3;17.58;ffmi-(fat-free-mass-index)_15.3_17.58
+VAL;FFMI;4;N;17.58;18.5;ffmi-(fat-free-mass-index)_17.58_18.5
+VAL;FFMI;5;N;18.5;19.56;ffmi-(fat-free-mass-index)_18.5_19.56
+VAL;FFMI;4;N;19.56;20.4;ffmi-(fat-free-mass-index)_19.56_20.4
+VAL;FFMI;4;N;20.4;21.7;ffmi-(fat-free-mass-index)_20.4_21.7
+NAME;FFMI;4;N;;;ffmi-(fat-free-mass-index)
+VAL;FMI;4;N;7.3;8.82;fmi-(fat-mass-index)_7.3_8.82
+VAL;FMI;5;N;8.82;11.34;fmi-(fat-mass-index)_8.82_11.34
+VAL;FMI;5;N;11.34;12.66;fmi-(fat-mass-index)_11.34_12.66
+VAL;FMI;5;N;12.66;14.88;fmi-(fat-mass-index)_12.66_14.88
+VAL;FMI;4;N;14.88;22.3;fmi-(fat-mass-index)_14.88_22.3
+NAME;FMI;4;N;;;fmi-(fat-mass-index)
+VAL;HGT;5;N;151.6;156.8;height_151.6_156.8
+VAL;HGT;5;N;156.8;162.0;height_156.8_162.0
+VAL;HGT;5;N;162.0;168.0;height_162.0_168.0
+VAL;HGT;5;N;168.0;173.0;height_168.0_173.0
+VAL;HGT;5;N;173.0;180.0;height_173.0_180.0
+NAME;HGT;5;N;;;height
+VAL;HFLN;4;N;3.51;4.71;hf(ln)_3.51_4.71
+VAL;HFLN;4;N;4.71;5.26;hf(ln)_4.71_5.26
+VAL;HFLN;3;N;5.26;5.9;hf(ln)_5.26_5.9
+VAL;HFLN;4;N;5.9;6.44;hf(ln)_5.9_6.44
+VAL;HFLN;4;N;6.44;7.49;hf(ln)_6.44_7.49
+NAME;HFLN;4;N;;;hf(ln)
+VAL;HR;4;N;52.0;60.0;hr_52.0_60.0
+VAL;HR;4;N;60.0;65.2;hr_60.0_65.2
+VAL;HR;4;N;65.2;69.0;hr_65.2_69.0
+VAL;HR;4;N;69.0;76.8;hr_69.0_76.8
+VAL;HR;4;N;76.8;86.0;hr_76.8_86.0
+NAME;HR;4;N;;;hr
+VAL;ICLA;4;N;0.86;1.15;icw-of-left-arm_0.86_1.15
+VAL;ICLA;3;N;1.15;1.3;icw-of-left-arm_1.15_1.3
+VAL;ICLA;4;N;1.3;1.37;icw-of-left-arm_1.3_1.37
+VAL;ICLA;3;N;1.37;1.6;icw-of-left-arm_1.37_1.6
+VAL;ICLA;4;N;1.6;1.82;icw-of-left-arm_1.6_1.82
+NAME;ICLA;4;N;;;icw-of-left-arm
+VAL;ICLL;4;N;2.45;3.09;icw-of-left-leg_2.45_3.09
+VAL;ICLL;3;N;3.09;3.6;icw-of-left-leg_3.09_3.6
+VAL;ICLL;4;N;3.6;3.82;icw-of-left-leg_3.6_3.82
+VAL;ICLL;4;N;3.82;4.11;icw-of-left-leg_3.82_4.11
+VAL;ICLL;4;N;4.11;5.06;icw-of-left-leg_4.11_5.06
+NAME;ICLL;4;N;;;icw-of-left-leg
+VAL;ICRA;4;N;0.85;1.15;icw-of-right-arm_0.85_1.15
+VAL;ICRA;4;N;1.15;1.33;icw-of-right-arm_1.15_1.33
+VAL;ICRA;4;N;1.33;1.38;icw-of-right-arm_1.33_1.38
+VAL;ICRA;4;N;1.38;1.58;icw-of-right-arm_1.38_1.58
+VAL;ICRA;4;N;1.58;1.83;icw-of-right-arm_1.58_1.83
+NAME;ICRA;4;N;;;icw-of-right-arm
+VAL;ICRL;4;N;2.48;3.08;icw-of-right-leg_2.48_3.08
+VAL;ICRL;4;N;3.08;3.59;icw-of-right-leg_3.08_3.59
+VAL;ICRL;4;N;3.59;3.82;icw-of-right-leg_3.59_3.82
+VAL;ICRL;4;N;3.82;4.09;icw-of-right-leg_3.82_4.09
+VAL;ICRL;3;N;4.09;5.1;icw-of-right-leg_4.09_5.1
+NAME;ICRL;3;N;;;icw-of-right-leg
+VAL;ICTR;4;N;8.1;9.94;icw-of-trunk_8.1_9.94
+VAL;ICTR;4;N;9.94;11.0;icw-of-trunk_9.94_11.0
+VAL;ICTR;5;N;11.0;11.38;icw-of-trunk_11.0_11.38
+VAL;ICTR;5;N;11.38;12.74;icw-of-trunk_11.38_12.74
+VAL;ICTR;4;N;12.74;14.0;icw-of-trunk_12.74_14.0
+NAME;ICTR;4;N;;;icw-of-trunk
+VAL;ICW;5;N;16.2;20.04;icw-(intracellular-water)_16.2_20.04
+VAL;ICW;4;N;20.04;22.7;icw-(intracellular-water)_20.04_22.7
+VAL;ICW;5;N;22.7;23.76;icw-(intracellular-water)_22.7_23.76
+VAL;ICW;4;N;23.76;26.4;icw-(intracellular-water)_23.76_26.4
+VAL;ICW;4;N;26.4;30.6;icw-(intracellular-water)_26.4_30.6
+NAME;ICW;4;N;;;icw-(intracellular-water)
+VAL;INBS;4;N;46.0;57.2;inbody-score_46.0_57.2
+VAL;INBS;4;N;57.2;64.0;inbody-score_57.2_64.0
+VAL;INBS;4;N;64.0;66.0;inbody-score_64.0_66.0
+VAL;INBS;4;N;66.0;73.4;inbody-score_66.0_73.4
+VAL;INBS;4;N;73.4;85.0;inbody-score_73.4_85.0
+NAME;INBS;4;N;;;inbody-score
+VAL;INBT;5;N;970.0;970.0;inbody-type_970.0_970.0
+NAME;INBT;5;N;;;inbody-type
+VAL;KH50;4;N;4.2;4.96;khz-50-whole-body-phase-angle_4.2_4.96
+VAL;KH50;3;N;4.96;5.4;khz-50-whole-body-phase-angle_4.96_5.4
+VAL;KH50;4;N;5.4;5.58;khz-50-whole-body-phase-angle_5.4_5.58
+VAL;KH50;3;N;5.58;6.1;khz-50-whole-body-phase-angle_5.58_6.1
+VAL;KH50;3;N;6.1;7.6;khz-50-whole-body-phase-angle_6.1_7.6
+NAME;KH50;3;N;;;khz-50-whole-body-phase-angle
+VAL;KHLA;3;N;1.6;2.1;khz-la-5-phase-angle_1.6_2.1
+VAL;KHLA;4;N;2.1;2.22;khz-la-5-phase-angle_2.1_2.22
+VAL;KHLA;3;N;2.22;2.5;khz-la-5-phase-angle_2.22_2.5
+VAL;KHLA;3;N;2.5;2.7;khz-la-5-phase-angle_2.5_2.7
+VAL;KHLA;3;N;2.7;3.7;khz-la-5-phase-angle_2.7_3.7
+NAME;KHLA;3;N;;;khz-la-5-phase-angle
+VAL;KHLL;3;N;1.9;2.2;khz-ll-5-phase-angle_1.9_2.2
+VAL;KHLL;3;N;2.2;2.4;khz-ll-5-phase-angle_2.2_2.4
+VAL;KHLL;3;N;2.4;2.7;khz-ll-5-phase-angle_2.4_2.7
+VAL;KHLL;4;N;2.7;3.04;khz-ll-5-phase-angle_2.7_3.04
+VAL;KHLL;3;N;3.04;3.9;khz-ll-5-phase-angle_3.04_3.9
+NAME;KHLL;3;N;;;khz-ll-5-phase-angle
+VAL;KHRA;3;N;1.8;2.2;khz-ra-5-phase-angle_1.8_2.2
+VAL;KHRA;3;N;2.2;2.3;khz-ra-5-phase-angle_2.2_2.3
+VAL;KHRA;3;N;2.3;2.5;khz-ra-5-phase-angle_2.3_2.5
+VAL;KHRA;3;N;2.5;2.7;khz-ra-5-phase-angle_2.5_2.7
+VAL;KHRA;3;N;2.7;3.4;khz-ra-5-phase-angle_2.7_3.4
+NAME;KHRA;3;N;;;khz-ra-5-phase-angle
+VAL;KHRL;4;N;1.9;2.26;khz-rl-5-phase-angle_1.9_2.26
+VAL;KHRL;3;N;2.26;2.5;khz-rl-5-phase-angle_2.26_2.5
+VAL;KHRL;3;N;2.5;2.8;khz-rl-5-phase-angle_2.5_2.8
+VAL;KHRL;3;N;2.8;3.2;khz-rl-5-phase-angle_2.8_3.2
+VAL;KHRL;3;N;3.2;4.0;khz-rl-5-phase-angle_3.2_4.0
+NAME;KHRL;3;N;;;khz-rl-5-phase-angle
+VAL;KHTR;3;N;0.8;2.4;khz-tr-5-phase-angle_0.8_2.4
+VAL;KHTR;4;N;2.4;3.12;khz-tr-5-phase-angle_2.4_3.12
+VAL;KHTR;3;N;3.12;3.5;khz-tr-5-phase-angle_3.12_3.5
+VAL;KHTR;3;N;3.5;3.9;khz-tr-5-phase-angle_3.5_3.9
+VAL;KHTR;3;N;3.9;5.2;khz-tr-5-phase-angle_3.9_5.2
+NAME;KHTR;3;N;;;khz-tr-5-phase-angle
+VAL;LARM;5;N;84.2;96.14;lean-mass(%)-of-left-arm_84.2_96.14
+VAL;LARM;6;N;96.14;102.28;lean-mass(%)-of-left-arm_96.14_102.28
+VAL;LARM;6;N;102.28;107.34;lean-mass(%)-of-left-arm_102.28_107.34
+VAL;LARM;5;N;107.34;112.6;lean-mass(%)-of-left-arm_107.34_112.6
+VAL;LARM;5;N;112.6;141.0;lean-mass(%)-of-left-arm_112.6_141.0
+NAME;LARM;5;N;;;lean-mass(%)-of-left-arm
+VAL;LLEG;5;N;79.4;86.48;lean-mass(%)-of-left-leg_79.4_86.48
+VAL;LLEG;4;N;86.48;94.1;lean-mass(%)-of-left-leg_86.48_94.1
+VAL;LLEG;5;N;94.1;98.18;lean-mass(%)-of-left-leg_94.1_98.18
+VAL;LLEG;6;N;98.18;104.44;lean-mass(%)-of-left-leg_98.18_104.44
+VAL;LLEG;5;N;104.44;116.2;lean-mass(%)-of-left-leg_104.44_116.2
+NAME;LLEG;5;N;;;lean-mass(%)-of-left-leg
+VAL;RARM;4;N;85.0;97.3;lean-mass(%)-of-right-arm_85.0_97.3
+VAL;RARM;6;N;97.3;103.04;lean-mass(%)-of-right-arm_97.3_103.04
+VAL;RARM;6;N;103.04;108.68;lean-mass(%)-of-right-arm_103.04_108.68
+VAL;RARM;6;N;108.68;114.84;lean-mass(%)-of-right-arm_108.68_114.84
+VAL;RARM;5;N;114.84;140.9;lean-mass(%)-of-right-arm_114.84_140.9
+NAME;RARM;5;N;;;lean-mass(%)-of-right-arm
+VAL;RLEG;5;N;83.1;86.16;lean-mass(%)-of-right-leg_83.1_86.16
+VAL;RLEG;5;N;86.16;93.42;lean-mass(%)-of-right-leg_86.16_93.42
+VAL;RLEG;5;N;93.42;98.04;lean-mass(%)-of-right-leg_93.42_98.04
+VAL;RLEG;6;N;98.04;102.74;lean-mass(%)-of-right-leg_98.04_102.74
+VAL;RLEG;5;N;102.74;116.2;lean-mass(%)-of-right-leg_102.74_116.2
+NAME;RLEG;5;N;;;lean-mass(%)-of-right-leg
+VAL;TRUN;4;N;87.7;97.3;lean-mass(%)-of-trunk_87.7_97.3
+VAL;TRUN;6;N;97.3;100.66;lean-mass(%)-of-trunk_97.3_100.66
+VAL;TRUN;6;N;100.66;103.12;lean-mass(%)-of-trunk_100.66_103.12
+VAL;TRUN;6;N;103.12;106.74;lean-mass(%)-of-trunk_103.12_106.74
+VAL;TRUN;5;N;106.74;121.9;lean-mass(%)-of-trunk_106.74_121.9
+NAME;TRUN;5;N;;;lean-mass(%)-of-trunk
+VAL;LFLN;4;N;3.77;4.65;lf(ln)_3.77_4.65
+VAL;LFLN;4;N;4.65;5.06;lf(ln)_4.65_5.06
+VAL;LFLN;4;N;5.06;5.55;lf(ln)_5.06_5.55
+VAL;LFLN;4;N;5.55;6.12;lf(ln)_5.55_6.12
+VAL;LFLN;4;N;6.12;7.62;lf(ln)_6.12_7.62
+NAME;LFLN;4;N;;;lf(ln)
+VAL;LFHF;4;N;0.06;0.43;lf/hf_0.06_0.43
+VAL;LFHF;4;N;0.43;0.77;lf/hf_0.43_0.77
+VAL;LFHF;4;N;0.77;1.11;lf/hf_0.77_1.11
+VAL;LFHF;4;N;1.11;1.59;lf/hf_1.11_1.59
+VAL;LFHF;5;N;1.59;10.57;lf/hf_1.59_10.57
+NAME;LFHF;5;N;;;lf/hf
+VAL;LCID;4;N;9.0;23.2;local-id_9.0_23.2
+VAL;LCID;4;N;23.2;37.4;local-id_23.2_37.4
+VAL;LCID;4;N;37.4;55.8;local-id_37.4_55.8
+VAL;LCID;4;N;55.8;74.8;local-id_55.8_74.8
+VAL;LCID;4;N;74.8;89.0;local-id_74.8_89.0
+NAME;LCID;4;N;;;local-id
+VAL;MHRT;4;N;52.0;60.0;mean-hrt_52.0_60.0
+VAL;MHRT;4;N;60.0;65.2;mean-hrt_60.0_65.2
+VAL;MHRT;4;N;65.2;69.0;mean-hrt_65.2_69.0
+VAL;MHRT;4;N;69.0;76.8;mean-hrt_69.0_76.8
+VAL;MHRT;4;N;76.8;86.0;mean-hrt_76.8_86.0
+NAME;MHRT;4;N;;;mean-hrt
+VAL;CABD;5;N;89.5;93.44;measured-circumference-of-abdomen_89.5_93.44
+VAL;CABD;5;N;93.44;96.88;measured-circumference-of-abdomen_93.44_96.88
+VAL;CABD;6;N;96.88;104.76;measured-circumference-of-abdomen_96.88_104.76
+VAL;CABD;5;N;104.76;116.5;measured-circumference-of-abdomen_104.76_116.5
+VAL;CABD;5;N;116.5;130.9;measured-circumference-of-abdomen_116.5_130.9
+NAME;CABD;5;N;;;measured-circumference-of-abdomen
+VAL;CCH;5;N;92.4;98.68;measured-circumference-of-chest_92.4_98.68
+VAL;CCH;6;N;98.68;102.96;measured-circumference-of-chest_98.68_102.96
+VAL;CCH;6;N;102.96;104.78;measured-circumference-of-chest_102.96_104.78
+VAL;CCH;5;N;104.78;109.7;measured-circumference-of-chest_104.78_109.7
+VAL;CCH;5;N;109.7;120.5;measured-circumference-of-chest_109.7_120.5
+NAME;CCH;5;N;;;measured-circumference-of-chest
+VAL;CLARM;5;N;31.4;32.56;measured-circumference-of-left-arm_31.4_32.56
+VAL;CLARM;5;N;32.56;34.52;measured-circumference-of-left-arm_32.56_34.52
+VAL;CLARM;5;N;34.52;36.08;measured-circumference-of-left-arm_34.52_36.08
+VAL;CLARM;5;N;36.08;37.84;measured-circumference-of-left-arm_36.08_37.84
+VAL;CLARM;4;N;37.84;45.6;measured-circumference-of-left-arm_37.84_45.6
+NAME;CLARM;4;N;;;measured-circumference-of-left-arm
+VAL;CLTH;5;N;50.6;54.92;measured-circumference-of-left-thigh_50.6_54.92
+VAL;CLTH;5;N;54.92;56.48;measured-circumference-of-left-thigh_54.92_56.48
+VAL;CLTH;5;N;56.48;58.68;measured-circumference-of-left-thigh_56.48_58.68
+VAL;CLTH;4;N;58.68;61.0;measured-circumference-of-left-thigh_58.68_61.0
+VAL;CLTH;4;N;61.0;67.7;measured-circumference-of-left-thigh_61.0_67.7
+NAME;CLTH;4;N;;;measured-circumference-of-left-thigh
+VAL;CNE;5;N;33.8;36.46;measured-circumference-of-neck_33.8_36.46
+VAL;CNE;5;N;36.46;37.92;measured-circumference-of-neck_36.46_37.92
+VAL;CNE;5;N;37.92;38.96;measured-circumference-of-neck_37.92_38.96
+VAL;CNE;5;N;38.96;41.24;measured-circumference-of-neck_38.96_41.24
+VAL;CNE;4;N;41.24;46.6;measured-circumference-of-neck_41.24_46.6
+NAME;CNE;4;N;;;measured-circumference-of-neck
+VAL;CRARM;4;N;32.0;32.7;measured-circumference-of-right-arm_32.0_32.7
+VAL;CRARM;4;N;32.7;34.8;measured-circumference-of-right-arm_32.7_34.8
+VAL;CRARM;4;N;34.8;36.1;measured-circumference-of-right-arm_34.8_36.1
+VAL;CRARM;5;N;36.1;38.28;measured-circumference-of-right-arm_36.1_38.28
+VAL;CRARM;4;N;38.28;46.0;measured-circumference-of-right-arm_38.28_46.0
+NAME;CRARM;4;N;;;measured-circumference-of-right-arm
+VAL;CRTH;5;N;50.5;54.76;measured-circumference-of-right-thigh_50.5_54.76
+VAL;CRTH;5;N;54.76;56.68;measured-circumference-of-right-thigh_54.76_56.68
+VAL;CRTH;5;N;56.68;58.72;measured-circumference-of-right-thigh_56.68_58.72
+VAL;CRTH;5;N;58.72;60.98;measured-circumference-of-right-thigh_58.72_60.98
+VAL;CRTH;4;N;60.98;67.8;measured-circumference-of-right-thigh_60.98_67.8
+NAME;CRTH;4;N;;;measured-circumference-of-right-thigh
+VAL;MINR;4;N;2.52;3.14;minerals_2.52_3.14
+VAL;MINR;4;N;3.14;3.52;minerals_3.14_3.52
+VAL;MINR;4;N;3.52;3.71;minerals_3.52_3.71
+VAL;MINR;3;N;3.71;4.2;minerals_3.71_4.2
+VAL;MINR;4;N;4.2;4.69;minerals_4.2_4.69
+NAME;MINR;4;N;;;minerals
+VAL;OBES;5;N;117.0;131.6;obesity-degree_117.0_131.6
+VAL;OBES;5;N;131.6;140.0;obesity-degree_131.6_140.0
+VAL;OBES;5;N;140.0;145.6;obesity-degree_140.0_145.6
+VAL;OBES;5;N;145.6;160.4;obesity-degree_145.6_160.4
+VAL;OBES;5;N;160.4;203.0;obesity-degree_160.4_203.0
+NAME;OBES;5;N;;;obesity-degree
+VAL;PBF;5;N;25.3;31.52;pbf-(percent-body-fat)_25.3_31.52
+VAL;PBF;5;N;31.52;38.98;pbf-(percent-body-fat)_31.52_38.98
+VAL;PBF;5;N;38.98;41.08;pbf-(percent-body-fat)_38.98_41.08
+VAL;PBF;4;N;41.08;44.4;pbf-(percent-body-fat)_41.08_44.4
+VAL;PBF;4;N;44.4;52.4;pbf-(percent-body-fat)_44.4_52.4
+NAME;PBF;4;N;;;pbf-(percent-body-fat)
+VAL;PE;6;N;-52.34;-37.46;pe_-52.34_-37.46
+VAL;PE;6;N;-37.46;-30.97;pe_-37.46_-30.97
+VAL;PE;5;N;-30.97;-24.9;pe_-30.97_-24.9
+VAL;PE;6;N;-24.9;-18.08;pe_-24.9_-18.08
+VAL;PE;4;N;-18.08;0.15;pe_-18.08_0.15
+NAME;PE;4;N;;;pe
+VAL;TPLN;4;N;7.0;8.72;protein_7.0_8.72
+VAL;TPLN;3;N;8.72;9.8;protein_8.72_9.8
+VAL;TPLN;5;N;9.8;10.28;protein_9.8_10.28
+VAL;TPLN;4;N;10.28;11.4;protein_10.28_11.4
+VAL;TPLN;4;N;11.4;13.2;protein_11.4_13.2
+NAME;TPLN;4;N;;;protein
+VAL;PSI;5;N;9.49;21.58;psi_9.49_21.58
+VAL;PSI;5;N;21.58;29.02;psi_21.58_29.02
+VAL;PSI;5;N;29.02;37.95;psi_29.02_37.95
+VAL;PSI;5;N;37.95;63.32;psi_37.95_63.32
+VAL;PSI;6;N;63.32;155.92;psi_63.32_155.92
+NAME;PSI;6;N;;;psi
+VAL;RHT;6;N;262.9;311.22;r/ht_262.9_311.22
+VAL;RHT;6;N;311.22;336.52;r/ht_311.22_336.52
+VAL;RHT;6;N;336.52;351.78;r/ht_336.52_351.78
+VAL;RHT;6;N;351.78;377.84;r/ht_351.78_377.84
+VAL;RHT;5;N;377.84;484.8;r/ht_377.84_484.8
+NAME;RHT;5;N;;;r/ht
+VAL;CALOR;6;N;1481.0;1596.2;recommended-calorie-intake_1481.0_1596.2
+VAL;CALOR;6;N;1596.2;1811.4;recommended-calorie-intake_1596.2_1811.4
+VAL;CALOR;6;N;1811.4;1920.0;recommended-calorie-intake_1811.4_1920.0
+VAL;CALOR;6;N;1920.0;2179.4;recommended-calorie-intake_1920.0_2179.4
+VAL;CALOR;6;N;2179.4;2599.0;recommended-calorie-intake_2179.4_2599.0
+NAME;CALOR;6;N;;;recommended-calorie-intake
+VAL;RMSSD;5;N;12.41;20.77;rmssd_12.41_20.77
+VAL;RMSSD;5;N;20.77;24.13;rmssd_20.77_24.13
+VAL;RMSSD;4;N;24.13;34.1;rmssd_24.13_34.1
+VAL;RMSSD;5;N;34.1;41.55;rmssd_34.1_41.55
+VAL;RMSSD;5;N;41.55;77.17;rmssd_41.55_77.17
+NAME;RMSSD;5;N;;;rmssd
+VAL;SDNN;4;N;18.85;25.8;sdnn_18.85_25.8
+VAL;SDNN;5;N;25.8;37.15;sdnn_25.8_37.15
+VAL;SDNN;5;N;37.15;44.37;sdnn_37.15_44.37
+VAL;SDNN;5;N;44.37;50.84;sdnn_44.37_50.84
+VAL;SDNN;4;N;50.84;91.1;sdnn_50.84_91.1
+NAME;SDNN;4;N;;;sdnn
+VAL;SFALL;3;N;0.87;0.9;sfa-ll(subcutaneous-fat-of-abdomen-llimit)_0.87_0.9
+VAL;SFALL;4;N;0.9;0.93;sfa-ll(subcutaneous-fat-of-abdomen-llimit)_0.9_0.93
+VAL;SFALL;4;N;0.93;0.97;sfa-ll(subcutaneous-fat-of-abdomen-llimit)_0.93_0.97
+VAL;SFALL;3;N;0.97;1.0;sfa-ll(subcutaneous-fat-of-abdomen-llimit)_0.97_1.0
+VAL;SFALL;4;N;1.0;1.04;sfa-ll(subcutaneous-fat-of-abdomen-llimit)_1.0_1.04
+NAME;SFALL;4;N;;;sfa-ll(subcutaneous-fat-of-abdomen-llimit)
+VAL;SFAUL;4;N;1.75;1.81;sfa-ul(subcutaneous-fat-of-abdomen-ulimit)_1.75_1.81
+VAL;SFAUL;4;N;1.81;1.87;sfa-ul(subcutaneous-fat-of-abdomen-ulimit)_1.81_1.87
+VAL;SFAUL;4;N;1.87;1.94;sfa-ul(subcutaneous-fat-of-abdomen-ulimit)_1.87_1.94
+VAL;SFAUL;4;N;1.94;1.99;sfa-ul(subcutaneous-fat-of-abdomen-ulimit)_1.94_1.99
+VAL;SFAUL;4;N;1.99;2.07;sfa-ul(subcutaneous-fat-of-abdomen-ulimit)_1.99_2.07
+NAME;SFAUL;4;N;;;sfa-ul(subcutaneous-fat-of-abdomen-ulimit)
+VAL;SLM;4;N;33.4;41.7;slm-(soft-lean-mass)_33.4_41.7
+VAL;SLM;5;N;41.7;47.06;slm-(soft-lean-mass)_41.7_47.06
+VAL;SLM;5;N;47.06;49.06;slm-(soft-lean-mass)_47.06_49.06
+VAL;SLM;5;N;49.06;54.98;slm-(soft-lean-mass)_49.06_54.98
+VAL;SLM;4;N;54.98;62.6;slm-(soft-lean-mass)_54.98_62.6
+NAME;SLM;4;N;;;slm-(soft-lean-mass)
+VAL;SMI;3;N;5.9;7.1;smi-(skeletal-muscle-index)_5.9_7.1
+VAL;SMI;3;N;7.1;7.5;smi-(skeletal-muscle-index)_7.1_7.5
+VAL;SMI;4;N;7.5;7.78;smi-(skeletal-muscle-index)_7.5_7.78
+VAL;SMI;3;N;7.78;8.2;smi-(skeletal-muscle-index)_7.78_8.2
+VAL;SMI;3;N;8.2;9.1;smi-(skeletal-muscle-index)_8.2_9.1
+NAME;SMI;3;N;;;smi-(skeletal-muscle-index)
+VAL;SMM;5;N;19.1;24.14;smm-(skeletal-muscle-mass)_19.1_24.14
+VAL;SMM;5;N;24.14;27.52;smm-(skeletal-muscle-mass)_24.14_27.52
+VAL;SMM;5;N;27.52;28.96;smm-(skeletal-muscle-mass)_27.52_28.96
+VAL;SMM;4;N;28.96;32.4;smm-(skeletal-muscle-mass)_28.96_32.4
+VAL;SMM;4;N;32.4;37.9;smm-(skeletal-muscle-mass)_32.4_37.9
+NAME;SMM;4;N;;;smm-(skeletal-muscle-mass)
+VAL;SMWT;5;N;26.4;30.22;smm/wt_26.4_30.22
+VAL;SMWT;4;N;30.22;32.4;smm/wt_30.22_32.4
+VAL;SMWT;5;N;32.4;33.98;smm/wt_32.4_33.98
+VAL;SMWT;4;N;33.98;37.9;smm/wt_33.98_37.9
+VAL;SMWT;4;N;37.9;42.4;smm/wt_37.9_42.4
+NAME;SMWT;4;N;;;smm/wt
+VAL;SRD;4;N;0.71;0.89;srd_0.71_0.89
+VAL;SRD;4;N;0.89;0.94;srd_0.89_0.94
+VAL;SRD;4;N;0.94;0.98;srd_0.94_0.98
+VAL;SRD;4;N;0.98;1.05;srd_0.98_1.05
+VAL;SRD;4;N;1.05;1.24;srd_1.05_1.24
+NAME;SRD;4;N;;;srd
+VAL;STIN;4;N;58.0;71.0;stress-index_58.0_71.0
+VAL;STIN;4;N;71.0;78.0;stress-index_71.0_78.0
+VAL;STIN;4;N;78.0;93.8;stress-index_78.0_93.8
+VAL;STIN;5;N;93.8;102.8;stress-index_93.8_102.8
+VAL;STIN;5;N;102.8;132.0;stress-index_102.8_132.0
+NAME;STIN;5;N;;;stress-index
+VAL;STRE;4;N;68.0;93.0;stress-resilience_68.0_93.0
+VAL;STRE;5;N;93.0;102.6;stress-resilience_93.0_102.6
+VAL;STRE;5;N;102.6;120.0;stress-resilience_102.6_120.0
+VAL;STRE;5;N;120.0;134.0;stress-resilience_120.0_134.0
+VAL;STRE;5;N;134.0;150.0;stress-resilience_134.0_150.0
+NAME;STRE;5;N;;;stress-resilience
+VAL;SVR;4;N;0.1;0.13;svr(skeletal-muscle-mass-visceral-fat-area-ratio)_0.1_0.13
+VAL;SVR;4;N;0.13;0.16;svr(skeletal-muscle-mass-visceral-fat-area-ratio)_0.13_0.16
+VAL;SVR;4;N;0.16;0.19;svr(skeletal-muscle-mass-visceral-fat-area-ratio)_0.16_0.19
+VAL;SVR;4;N;0.19;0.26;svr(skeletal-muscle-mass-visceral-fat-area-ratio)_0.19_0.26
+VAL;SVR;3;N;0.26;0.4;svr(skeletal-muscle-mass-visceral-fat-area-ratio)_0.26_0.4
+NAME;SVR;3;N;;;svr(skeletal-muscle-mass-visceral-fat-area-ratio)
+VAL;TGWT;5;N;48.7;57.46;target-weight_48.7_57.46
+VAL;TGWT;4;N;57.46;63.1;target-weight_57.46_63.1
+VAL;TGWT;5;N;63.1;65.66;target-weight_63.1_65.66
+VAL;TGWT;5;N;65.66;75.24;target-weight_65.66_75.24
+VAL;TGWT;4;N;75.24;80.3;target-weight_75.24_80.3
+NAME;TGWT;4;N;;;target-weight
+VAL;TBLA;4;N;1.38;1.87;tbw-of-left-arm_1.38_1.87
+VAL;TBLA;3;N;1.87;2.1;tbw-of-left-arm_1.87_2.1
+VAL;TBLA;4;N;2.1;2.23;tbw-of-left-arm_2.1_2.23
+VAL;TBLA;4;N;2.23;2.57;tbw-of-left-arm_2.23_2.57
+VAL;TBLA;4;N;2.57;2.95;tbw-of-left-arm_2.57_2.95
+NAME;TBLA;4;N;;;tbw-of-left-arm
+VAL;TBLL;4;N;3.94;4.98;tbw-of-left-leg_3.94_4.98
+VAL;TBLL;3;N;4.98;5.9;tbw-of-left-leg_4.98_5.9
+VAL;TBLL;4;N;5.9;6.12;tbw-of-left-leg_5.9_6.12
+VAL;TBLL;4;N;6.12;6.65;tbw-of-left-leg_6.12_6.65
+VAL;TBLL;4;N;6.65;8.04;tbw-of-left-leg_6.65_8.04
+NAME;TBLL;4;N;;;tbw-of-left-leg
+VAL;TBRA;4;N;1.36;1.85;tbw-of-right-arm_1.36_1.85
+VAL;TBRA;4;N;1.85;2.15;tbw-of-right-arm_1.85_2.15
+VAL;TBRA;4;N;2.15;2.22;tbw-of-right-arm_2.15_2.22
+VAL;TBRA;4;N;2.22;2.55;tbw-of-right-arm_2.22_2.55
+VAL;TBRA;4;N;2.55;2.93;tbw-of-right-arm_2.55_2.93
+NAME;TBRA;4;N;;;tbw-of-right-arm
+VAL;TBRL;4;N;3.97;4.96;tbw-of-right-leg_3.97_4.96
+VAL;TBRL;3;N;4.96;5.9;tbw-of-right-leg_4.96_5.9
+VAL;TBRL;4;N;5.9;6.15;tbw-of-right-leg_5.9_6.15
+VAL;TBRL;4;N;6.15;6.64;tbw-of-right-leg_6.15_6.64
+VAL;TBRL;4;N;6.64;8.09;tbw-of-right-leg_6.64_8.09
+NAME;TBRL;4;N;;;tbw-of-right-leg
+VAL;TBTR;5;N;13.1;16.02;tbw-of-trunk_13.1_16.02
+VAL;TBTR;4;N;16.02;17.8;tbw-of-trunk_16.02_17.8
+VAL;TBTR;4;N;17.8;18.5;tbw-of-trunk_17.8_18.5
+VAL;TBTR;5;N;18.5;20.64;tbw-of-trunk_18.5_20.64
+VAL;TBTR;4;N;20.64;22.8;tbw-of-trunk_20.64_22.8
+NAME;TBTR;4;N;;;tbw-of-trunk
+VAL;TBW;5;N;26.0;32.48;tbw-(total-body-water)_26.0_32.48
+VAL;TBW;5;N;32.48;36.58;tbw-(total-body-water)_32.48_36.58
+VAL;TBW;5;N;36.58;38.18;tbw-(total-body-water)_36.58_38.18
+VAL;TBW;5;N;38.18;42.98;tbw-(total-body-water)_38.18_42.98
+VAL;TBW;4;N;42.98;48.6;tbw-(total-body-water)_42.98_48.6
+NAME;TBW;4;N;;;tbw-(total-body-water)
+VAL;TBFF;4;N;72.9;73.1;tbw/ffm_72.9_73.1
+VAL;TBFF;4;N;73.1;73.2;tbw/ffm_73.1_73.2
+VAL;TBFF;4;N;73.2;73.3;tbw/ffm_73.2_73.3
+VAL;TBFF;4;N;73.3;73.5;tbw/ffm_73.3_73.5
+VAL;TBFF;4;N;73.5;73.9;tbw/ffm_73.5_73.9
+NAME;TBFF;4;N;;;tbw/ffm
+VAL;TBWT;5;N;34.9;40.76;tbw/wt_34.9_40.76
+VAL;TBWT;5;N;40.76;43.12;tbw/wt_40.76_43.12
+VAL;TBWT;5;N;43.12;44.64;tbw/wt_43.12_44.64
+VAL;TBWT;4;N;44.64;50.3;tbw/wt_44.64_50.3
+VAL;TBWT;4;N;50.3;54.8;tbw/wt_50.3_54.8
+NAME;TBWT;4;N;;;tbw/wt
+VAL;TP;4;N;5.22;6.17;tp(ln)_5.22_6.17
+VAL;TP;4;N;6.17;6.77;tp(ln)_6.17_6.77
+VAL;TP;4;N;6.77;7.08;tp(ln)_6.77_7.08
+VAL;TP;4;N;7.08;7.52;tp(ln)_7.08_7.52
+VAL;TP;4;N;7.52;8.76;tp(ln)_7.52_8.76
+NAME;TP;4;N;;;tp(ln)
+VAL;TSRD;6;N;65.98;104.09;tsrd_65.98_104.09
+VAL;TSRD;6;N;104.09;119.67;tsrd_104.09_119.67
+VAL;TSRD;6;N;119.67;138.77;tsrd_119.67_138.77
+VAL;TSRD;6;N;138.77;167.03;tsrd_138.77_167.03
+VAL;TSRD;6;N;167.03;210.77;tsrd_167.03_210.77
+NAME;TSRD;6;N;;;tsrd
+VAL;VFA;6;N;83.7;110.34;vfa-(visceral-fat-area)_83.7_110.34
+VAL;VFA;6;N;110.34;145.52;vfa-(visceral-fat-area)_110.34_145.52
+VAL;VFA;5;N;145.52;176.7;vfa-(visceral-fat-area)_145.52_176.7
+VAL;VFA;5;N;176.7;214.5;vfa-(visceral-fat-area)_176.7_214.5
+VAL;VFA;5;N;214.5;269.2;vfa-(visceral-fat-area)_214.5_269.2
+NAME;VFA;5;N;;;vfa-(visceral-fat-area)
+VAL;VFL;4;N;8.0;10.6;vfl-(visceral-fat-level)_8.0_10.6
+VAL;VFL;4;N;10.6;14.0;vfl-(visceral-fat-level)_10.6_14.0
+VAL;VFL;4;N;14.0;17.0;vfl-(visceral-fat-level)_14.0_17.0
+VAL;VFL;4;N;17.0;21.0;vfl-(visceral-fat-level)_17.0_21.0
+VAL;VFL;4;N;21.0;26.0;vfl-(visceral-fat-level)_21.0_26.0
+NAME;VFL;4;N;;;vfl-(visceral-fat-level)
+VAL;VLFL;4;N;3.17;5.07;vlf(ln)_3.17_5.07
+VAL;VLFL;4;N;5.07;5.54;vlf(ln)_5.07_5.54
+VAL;VLFL;4;N;5.54;6.19;vlf(ln)_5.54_6.19
+VAL;VLFL;4;N;6.19;6.74;vlf(ln)_6.19_6.74
+VAL;VLFL;4;N;6.74;7.85;vlf(ln)_6.74_7.85
+NAME;VLFL;4;N;;;vlf(ln)
+VAL;WC;5;N;89.5;93.44;wc(waist-circumference)_89.5_93.44
+VAL;WC;5;N;93.44;96.88;wc(waist-circumference)_93.44_96.88
+VAL;WC;6;N;96.88;104.76;wc(waist-circumference)_96.88_104.76
+VAL;WC;5;N;104.76;116.5;wc(waist-circumference)_104.76_116.5
+VAL;WC;5;N;116.5;130.9;wc(waist-circumference)_116.5_130.9
+NAME;WC;5;N;;;wc(waist-circumference)
+VAL;WCTR;6;N;-45.3;-27.64;weight-control_-45.3_-27.64
+VAL;WCTR;5;N;-27.64;-20.4;weight-control_-27.64_-20.4
+VAL;WCTR;6;N;-20.4;-14.72;weight-control_-20.4_-14.72
+VAL;WCTR;6;N;-14.72;-13.24;weight-control_-14.72_-13.24
+VAL;WCTR;4;N;-13.24;-8.4;weight-control_-13.24_-8.4
+NAME;WCTR;4;N;;;weight-control
+VAL;WGHT;4;N;62.1;75.2;weight_62.1_75.2
+VAL;WGHT;5;N;75.2;83.84;weight_75.2_83.84
+VAL;WGHT;5;N;83.84;88.78;weight_83.84_88.78
+VAL;WGHT;5;N;88.78;97.14;weight_88.78_97.14
+VAL;WGHT;5;N;97.14;118.9;weight_97.14_118.9
+NAME;WGHT;5;N;;;weight
+VAL;WHR;4;N;0.86;0.91;whr-(waist-hip-ratio)_0.86_0.91
+VAL;WHR;4;N;0.91;0.93;whr-(waist-hip-ratio)_0.91_0.93
+VAL;WHR;4;N;0.93;0.99;whr-(waist-hip-ratio)_0.93_0.99
+VAL;WHR;4;N;0.99;1.05;whr-(waist-hip-ratio)_0.99_1.05
+VAL;WHR;4;N;1.05;1.14;whr-(waist-hip-ratio)_1.05_1.14
+NAME;WHR;4;N;;;whr-(waist-hip-ratio)
+VAL;WHTR;4;N;0.53;0.57;whtr(waist-height-ratio)_0.53_0.57
+VAL;WHTR;3;N;0.57;0.6;whtr(waist-height-ratio)_0.57_0.6
+VAL;WHTR;4;N;0.6;0.62;whtr(waist-height-ratio)_0.6_0.62
+VAL;WHTR;4;N;0.62;0.71;whtr(waist-height-ratio)_0.62_0.71
+VAL;WHTR;4;N;0.71;0.82;whtr(waist-height-ratio)_0.71_0.82
+NAME;WHTR;4;N;;;whtr(waist-height-ratio)
+VAL;XCHT;5;N;25.4;29.64;xc/ht_25.4_29.64
+VAL;XCHT;5;N;29.64;31.12;xc/ht_29.64_31.12
+VAL;XCHT;5;N;31.12;33.46;xc/ht_31.12_33.46
+VAL;XCHT;5;N;33.46;38.66;xc/ht_33.46_38.66
+VAL;XCHT;4;N;38.66;46.4;xc/ht_38.66_46.4
+NAME;XCHT;4;N;;;xc/ht
+VAL;VOLT;1;C;1;1;Volunteer ID_cd-003
+VAL;VOLT;1;C;2;2;Volunteer ID_cd-015
+VAL;VOLT;1;C;3;3;Volunteer ID_cd-034
+VAL;VOLT;1;C;4;4;Volunteer ID_cd-038
+VAL;VOLT;1;C;5;5;Volunteer ID_cd-042
+VAL;VOLT;1;C;6;6;Volunteer ID_cd-043
+VAL;VOLT;1;C;7;7;Volunteer ID_cd-046
+VAL;VOLT;1;C;8;8;Volunteer ID_cd-049
+VAL;VOLT;1;C;9;9;Volunteer ID_cd-053
+VAL;VOLT;2;C;10;10;Volunteer ID_cd-061
+VAL;VOLT;2;C;11;11;Volunteer ID_cd-065
+VAL;VOLT;2;C;12;12;Volunteer ID_cd-067
+VAL;VOLT;2;C;13;13;Volunteer ID_cd-074
+VAL;VOLT;2;C;14;14;Volunteer ID_cd-079
+VAL;VOLT;2;C;15;15;Volunteer ID_cd-088
+VAL;VOLT;2;C;16;16;Volunteer ID_cd-091
+VAL;VOLT;2;C;17;17;Volunteer ID_cd-099
+VAL;VOLT;2;C;18;18;Volunteer ID_cd-100
+VAL;VOLT;2;C;19;19;Volunteer ID_cd-101
+VAL;VOLT;2;C;20;20;Volunteer ID_cd-106
+VAL;VOLT;2;C;21;21;Volunteer ID_cd-112
+VAL;VOLT;2;C;22;22;Volunteer ID_cd-119
+NAME;VOLT;2;C;;;Volunteer ID
+VAL;DOBP;1;C;1;1;Date of Birth_14/03/1975
+VAL;DOBP;1;C;2;2;Date of Birth_19/01/1966
+VAL;DOBP;1;C;3;3;Date of Birth_04/12/2000
+VAL;DOBP;1;C;4;4;Date of Birth_07/08/1978
+VAL;DOBP;1;C;5;5;Date of Birth_01/12/1959
+VAL;DOBP;1;C;6;6;Date of Birth_23/02/2000
+VAL;DOBP;1;C;7;7;Date of Birth_19/04/1965
+VAL;DOBP;1;C;8;8;Date of Birth_11/02/1978
+VAL;DOBP;1;C;9;9;Date of Birth_28/04/1987
+VAL;DOBP;2;C;10;10;Date of Birth_06/04/1967
+VAL;DOBP;2;C;11;11;Date of Birth_21/04/1959
+VAL;DOBP;2;C;12;12;Date of Birth_26/08/1978
+VAL;DOBP;2;C;13;13;Date of Birth_01/03/1972
+VAL;DOBP;2;C;14;14;Date of Birth_21/07/1967
+VAL;DOBP;2;C;15;15;Date of Birth_17/09/1971
+VAL;DOBP;2;C;16;16;Date of Birth_03/03/1963
+VAL;DOBP;2;C;17;17;Date of Birth_29/06/1988
+VAL;DOBP;2;C;18;18;Date of Birth_23/10/1976
+VAL;DOBP;2;C;19;19;Date of Birth_27/12/1965
+VAL;DOBP;2;C;20;20;Date of Birth_17/04/1959
+VAL;DOBP;2;C;21;21;Date of Birth_08/07/1980
+VAL;DOBP;2;C;22;22;Date of Birth_12/11/1980
+NAME;DOBP;2;C;;;Date of Birth
+VAL;POBP;1;C;1;1;Place of Birth_clacton-on-sea, uk
+VAL;POBP;1;C;2;2;Place of Birth_zhe jiang, china
+VAL;POBP;1;C;3;3;Place of Birth_india
+VAL;POBP;1;C;4;4;Place of Birth_karanganyar, indonesia
+VAL;POBP;1;C;5;5;Place of Birth_salisbury, uk
+VAL;POBP;1;C;6;6;Place of Birth_izmir, turkey
+VAL;POBP;1;C;7;7;Place of Birth_kolkotta, india
+VAL;POBP;1;C;8;8;Place of Birth_hong kong
+VAL;POBP;1;C;9;9;Place of Birth_colombia
+VAL;POBP;2;C;10;10;Place of Birth_chittagong, bangladesh
+VAL;POBP;2;C;11;11;Place of Birth_accra, ghana
+VAL;POBP;2;C;12;12;Place of Birth_venezuela
+VAL;POBP;2;C;13;13;Place of Birth_winnipeg, canada
+VAL;POBP;2;C;14;14;Place of Birth_london, uk
+NAME;POBP;2;C;;;Place of Birth
+VAL;POR;1;C;1;1;Place of Residence_london, uk
+VAL;POR;1;C;2;2;Place of Residence_dunstable,uk
+VAL;POR;1;C;3;3;Place of Residence_essex, uk
+VAL;POR;1;C;4;4;Place of Residence_southampton, uk
+VAL;POR;1;C;5;5;Place of Residence_godmanchester, uk
+VAL;POR;1;C;6;6;Place of Residence_northampton, uk
+VAL;POR;1;C;7;7;Place of Residence_welwyn, uk
+NAME;POR;1;C;;;Place of Residence
+VAL;SEX;1;C;1;1;Sex_female
+VAL;SEX;1;C;2;2;Sex_male
+NAME;SEX;1;C;;;Sex
+VAL;ETH;1;C;1;1;Ethnicity_mixed / multiple
+VAL;ETH;1;C;2;2;Ethnicity_white
+VAL;ETH;1;C;3;3;Ethnicity_asian
+VAL;ETH;1;C;4;4;Ethnicity_black / african / caribbean
+VAL;ETH;1;C;5;5;Ethnicity_other
+NAME;ETH;1;C;;;Ethnicity
+VAL;MAR;1;C;1;1;Marital status_single or divorced
+VAL;MAR;1;C;2;2;Marital status_married
+NAME;MAR;1;C;;;Marital status
+VAL;LIV;1;C;1;1;Living Status_living alone
+VAL;LIV;1;C;2;2;Living Status_living in a family home
+VAL;LIV;1;C;3;3;Living Status_living with a partner
+NAME;LIV;1;C;;;Living Status
+VAL;EMP;1;C;1;1;Employment Status_working
+VAL;EMP;1;C;2;2;Employment Status_student
+VAL;EMP;1;C;3;3;Employment Status_non-working
+VAL;EMP;1;C;4;4;Employment Status_retired
+NAME;EMP;1;C;;;Employment Status
+VAL;PINCP;7;N;5160.0;13760.0;Salary (annual net salary)_5160.0_13760.0
+VAL;PINCP;7;N;13760.0;30100.0;Salary (annual net salary)_13760.0_30100.0
+VAL;PINCP;7;N;30100.0;38700.0;Salary (annual net salary)_30100.0_38700.0
+VAL;PINCP;7;N;38700.0;47300.0;Salary (annual net salary)_38700.0_47300.0
+VAL;PINCP;7;N;47300.0;51000.0;Salary (annual net salary)_47300.0_51000.0
+NAME;PINCP;7;N;;;Salary (annual net salary)
+VAL;WKTM;1;C;1;1;Working time_full-time
+VAL;WKTM;1;C;2;2;Working time_part-time
+NAME;WKTM;1;C;;;Working time
+VAL;SFTP;1;C;1;1;If you answered shift worker, please describe your shifts patterns_2 days a week
+VAL;SFTP;1;C;2;2;If you answered shift worker, please describe your shifts patterns_2 and 1/2 days a week
+NAME;SFTP;1;C;;;If you answered shift worker, please describe your shifts patterns
+VAL;EDU;1;C;1;1;Education Level_secondary
+VAL;EDU;1;C;2;2;Education Level_university (bachelor or equivalent)
+VAL;EDU;1;C;3;3;Education Level_doctoral
+VAL;EDU;1;C;4;4;Education Level_short-cycle tertiary education
+NAME;EDU;1;C;;;Education Level
+VAL;WHL;1;C;1;1;Women's health (only for women)  Please fill in the following information:  Years of menarche  Years of menopause  Number of children  Number of full-term pregnancies  Currently breastfeeding?  Did you breastfeed your children? If yes, how many?_10, 0, 0, 0, no
+VAL;WHL;1;C;2;2;Women's health (only for women)  Please fill in the following information:  Years of menarche  Years of menopause  Number of children  Number of full-term pregnancies  Currently breastfeeding?  Did you breastfeed your children? If yes, how many?_n/a, 1, 1, 1, n/a
+VAL;WHL;1;C;3;3;Women's health (only for women)  Please fill in the following information:  Years of menarche  Years of menopause  Number of children  Number of full-term pregnancies  Currently breastfeeding?  Did you breastfeed your children? If yes, how many?_24, 0, 0, 0, n/a
+VAL;WHL;1;C;4;4;Women's health (only for women)  Please fill in the following information:  Years of menarche  Years of menopause  Number of children  Number of full-term pregnancies  Currently breastfeeding?  Did you breastfeed your children? If yes, how many?_37, 14, 2, 2
+VAL;WHL;1;C;5;5;Women's health (only for women)  Please fill in the following information:  Years of menarche  Years of menopause  Number of children  Number of full-term pregnancies  Currently breastfeeding?  Did you breastfeed your children? If yes, how many?_n/a, 9, 2, 2, 2
+VAL;WHL;1;C;6;6;Women's health (only for women)  Please fill in the following information:  Years of menarche  Years of menopause  Number of children  Number of full-term pregnancies  Currently breastfeeding?  Did you breastfeed your children? If yes, how many?_2 children
+VAL;WHL;1;C;7;7;Women's health (only for women)  Please fill in the following information:  Years of menarche  Years of menopause  Number of children  Number of full-term pregnancies  Currently breastfeeding?  Did you breastfeed your children? If yes, how many?_34, na, 2, 2
+VAL;WHL;1;C;8;8;Women's health (only for women)  Please fill in the following information:  Years of menarche  Years of menopause  Number of children  Number of full-term pregnancies  Currently breastfeeding?  Did you breastfeed your children? If yes, how many?_32, 16, 0, 0
+VAL;WHL;1;C;9;9;Women's health (only for women)  Please fill in the following information:  Years of menarche  Years of menopause  Number of children  Number of full-term pregnancies  Currently breastfeeding?  Did you breastfeed your children? If yes, how many?_34, 24, 0, 0
+VAL;WHL;2;C;10;10;Women's health (only for women)  Please fill in the following information:  Years of menarche  Years of menopause  Number of children  Number of full-term pregnancies  Currently breastfeeding?  Did you breastfeed your children? If yes, how many?_31,0,3,3
+NAME;WHL;2;C;;;Women's health (only for women)  Please fill in the following information:  Years of menarche  Years of menopause  Number of children  Number of full-term pregnancies  Currently breastfeeding?  Did you breastfeed your children? If yes, how many?
+VAL;SMK;1;C;1;1;Smoking status_never smoked
+VAL;SMK;1;C;2;2;Smoking status_former smoker
+VAL;SMK;1;C;3;3;Smoking status_current smoker
+NAME;SMK;1;C;;;Smoking status
+VAL;FSM_D;1;C;1;1;If you answered former smoker, please fill in the following details:  Number of cigarettes per day  Years smoking  Years without smoking  Age started smoking_20 cigarettes/ day, stopped smoking 32 years ago
+VAL;FSM_D;1;C;2;2;If you answered former smoker, please fill in the following details:  Number of cigarettes per day  Years smoking  Years without smoking  Age started smoking_2 cigarettes per week, 7 years of smoking
+VAL;FSM_D;1;C;3;3;If you answered former smoker, please fill in the following details:  Number of cigarettes per day  Years smoking  Years without smoking  Age started smoking_16, 2, 35, 21
+VAL;FSM_D;1;C;4;4;If you answered former smoker, please fill in the following details:  Number of cigarettes per day  Years smoking  Years without smoking  Age started smoking_2 cigarettes per day, 12, 43, 16
+NAME;FSM_D;1;C;;;If you answered former smoker, please fill in the following details:  Number of cigarettes per day  Years smoking  Years without smoking  Age started smoking
+VAL;CSM_D;1;C;1;1;If you answered current smoker, please fill in the following details:  number of cigarettes smoked per day  years smoking  age started smoking_10, 8, 18
+VAL;CSM_D;1;C;2;2;If you answered current smoker, please fill in the following details:  number of cigarettes smoked per day  years smoking  age started smoking_5, 36, 25
+VAL;CSM_D;1;C;3;3;If you answered current smoker, please fill in the following details:  number of cigarettes smoked per day  years smoking  age started smoking_3-4 cigarettes per day,26 ,17
+NAME;CSM_D;1;C;;;If you answered current smoker, please fill in the following details:  number of cigarettes smoked per day  years smoking  age started smoking
+VAL;DIET;1;C;1;1;Are you following a specific diet?_no diet
+VAL;DIET;1;C;2;2;Are you following a specific diet?_vegetarian
+VAL;DIET;1;C;3;3;Are you following a specific diet?_vegan
+VAL;DIET;1;C;4;4;Are you following a specific diet?_other
+NAME;DIET;1;C;;;Are you following a specific diet?
+VAL;ODIET;1;C;1;1;If you filled in other for diet, please describe your diet_mediterranean diet
+VAL;ODIET;1;C;2;2;If you filled in other for diet, please describe your diet_pescatarian
+VAL;ODIET;1;C;3;3;If you filled in other for diet, please describe your diet_intermittent fasting
+NAME;ODIET;1;C;;;If you filled in other for diet, please describe your diet
+VAL;MED;1;C;1;1;Medical history. Did you have any of the following conditions?_hypertension, stress/anxiety
+VAL;MED;1;C;2;2;Medical history. Did you have any of the following conditions?_allergies
+VAL;MED;1;C;3;3;Medical history. Did you have any of the following conditions?_other
+VAL;MED;1;C;4;4;Medical history. Did you have any of the following conditions?_peanut allergy, sensory processing disorder
+VAL;MED;1;C;5;5;Medical history. Did you have any of the following conditions?_no
+VAL;MED;1;C;6;6;Medical history. Did you have any of the following conditions?_obesity, dyslipidaemia, stress/anxiety
+VAL;MED;1;C;7;7;Medical history. Did you have any of the following conditions?_hypertension
+VAL;MED;1;C;8;8;Medical history. Did you have any of the following conditions?_obesity, dyslipidaemia, pollen allergy
+VAL;MED;1;C;9;9;Medical history. Did you have any of the following conditions?_hypertension, high cholesterol
+VAL;MED;2;C;10;10;Medical history. Did you have any of the following conditions?_obesity, allergies
+VAL;MED;2;C;11;11;Medical history. Did you have any of the following conditions?_covid in the last 6 months, obesity, hypertension, stress/anxiety
+NAME;MED;2;C;;;Medical history. Did you have any of the following conditions?
+VAL;OMED;1;C;1;1;If you answered other in the above question please describe here your medical history_allergy to bamboo shoots
+VAL;OMED;1;C;2;2;If you answered other in the above question please describe here your medical history_haemorrhoids
+VAL;OMED;1;C;3;3;If you answered other in the above question please describe here your medical history_endometriosis
+NAME;OMED;1;C;;;If you answered other in the above question please describe here your medical history
+VAL;SLPWK;3;N;2.0;6.0;How many hours per day do you sleep during workdays?_2.0_6.0
+VAL;SLPWK;3;N;6.0;6.5;How many hours per day do you sleep during workdays?_6.0_6.5
+VAL;SLPWK;3;N;6.5;7.0;How many hours per day do you sleep during workdays?_6.5_7.0
+VAL;SLPWK;3;N;7.0;7.6;How many hours per day do you sleep during workdays?_7.0_7.6
+VAL;SLPWK;3;N;7.6;8.5;How many hours per day do you sleep during workdays?_7.6_8.5
+NAME;SLPWK;3;N;;;How many hours per day do you sleep during workdays?
+VAL;SLPFD;3;N;0.0;6.5;How many hours per day do you sleep during free days?_0.0_6.5
+VAL;SLPFD;3;N;6.5;7.0;How many hours per day do you sleep during free days?_6.5_7.0
+VAL;SLPFD;3;N;7.0;8.0;How many hours per day do you sleep during free days?_7.0_8.0
+VAL;SLPFD;3;N;8.0;9.0;How many hours per day do you sleep during free days?_8.0_9.0
+NAME;SLPFD;3;N;;;How many hours per day do you sleep during free days?
+VAL;NAP;1;C;1;1;Do you take naps during the day?_no
+VAL;NAP;1;C;2;2;Do you take naps during the day?_yes
+VAL;NAP;1;C;3;3;Do you take naps during the day?_1
+NAME;NAP;1;C;;;Do you take naps during the day?
+VAL;NAPD;3;N;1.0;1.0;If you answered yes in the above question, please mention how many naps and how long they are._1.0_1.0
+NAME;NAPD;3;N;;;If you answered yes in the above question, please mention how many naps and how long they are.
+VAL;SLPQ;3;N;1.0;1.0;Rate your sleep quality (1: very bad, 5: very good)_1.0_1.0
+VAL;SLPQ;3;N;2.0;2.0;Rate your sleep quality (1: very bad, 5: very good)_2.0_2.0
+VAL;SLPQ;3;N;3.0;3.0;Rate your sleep quality (1: very bad, 5: very good)_3.0_3.0
+VAL;SLPQ;3;N;5.0;5.0;Rate your sleep quality (1: very bad, 5: very good)_5.0_5.0
+NAME;SLPQ;3;N;;;Rate your sleep quality (1: very bad, 5: very good)
+VAL;PHY;3;N;0.0;1.0;We are interested in finding out about the kinds of physical activities that people do as part of their everyday lives.  The questions will ask you about the time you spent being physically active in the last 7 days. Please answer each question even if yo_0.0_1.0
+VAL;PHY;3;N;1.0;3.0;We are interested in finding out about the kinds of physical activities that people do as part of their everyday lives.  The questions will ask you about the time you spent being physically active in the last 7 days. Please answer each question even if yo_1.0_3.0
+VAL;PHY;3;N;3.0;7.0;We are interested in finding out about the kinds of physical activities that people do as part of their everyday lives.  The questions will ask you about the time you spent being physically active in the last 7 days. Please answer each question even if yo_3.0_7.0
+NAME;PHY;3;N;;;We are interested in finding out about the kinds of physical activities that people do as part of their everyday lives.  The questions will ask you about the time you spent being physically active in the last 7 days. Please answer each question even if yo
+VAL;VIG;1;C;1;1;How much time did you usually spend doing vigorous physical activities on one of those days? Please answer in hours and minutes per day._0
+VAL;VIG;1;C;2;2;How much time did you usually spend doing vigorous physical activities on one of those days? Please answer in hours and minutes per day._30 minutes
+VAL;VIG;1;C;3;3;How much time did you usually spend doing vigorous physical activities on one of those days? Please answer in hours and minutes per day._40 minutes
+VAL;VIG;1;C;4;4;How much time did you usually spend doing vigorous physical activities on one of those days? Please answer in hours and minutes per day._60 minutes
+VAL;VIG;1;C;5;5;How much time did you usually spend doing vigorous physical activities on one of those days? Please answer in hours and minutes per day._15 minutes
+VAL;VIG;1;C;6;6;How much time did you usually spend doing vigorous physical activities on one of those days? Please answer in hours and minutes per day._35 minutes
+VAL;VIG;1;C;7;7;How much time did you usually spend doing vigorous physical activities on one of those days? Please answer in hours and minutes per day._1 hour
+NAME;VIG;1;C;;;How much time did you usually spend doing vigorous physical activities on one of those days? Please answer in hours and minutes per day.
+VAL;MOD;3;N;0.0;2.0;Think about all the moderate activities that you did in the last 7 days. Moderate activities refer to activities that take moderate physical effort and make you breathe somewhat harder than normal. Think only about those physical activities that you did f_0.0_2.0
+VAL;MOD;3;N;2.0;5.0;Think about all the moderate activities that you did in the last 7 days. Moderate activities refer to activities that take moderate physical effort and make you breathe somewhat harder than normal. Think only about those physical activities that you did f_2.0_5.0
+VAL;MOD;3;N;5.0;7.0;Think about all the moderate activities that you did in the last 7 days. Moderate activities refer to activities that take moderate physical effort and make you breathe somewhat harder than normal. Think only about those physical activities that you did f_5.0_7.0
+NAME;MOD;3;N;;;Think about all the moderate activities that you did in the last 7 days. Moderate activities refer to activities that take moderate physical effort and make you breathe somewhat harder than normal. Think only about those physical activities that you did f
+VAL;MODT;1;C;1;1;How much time did you usually spend doing moderate physical activities on one of those days? Please answer in hours and minutes_2.5 hours
+VAL;MODT;1;C;2;2;How much time did you usually spend doing moderate physical activities on one of those days? Please answer in hours and minutes_1 hour
+VAL;MODT;1;C;3;3;How much time did you usually spend doing moderate physical activities on one of those days? Please answer in hours and minutes_15 minutes
+VAL;MODT;1;C;4;4;How much time did you usually spend doing moderate physical activities on one of those days? Please answer in hours and minutes_60 minutes
+VAL;MODT;1;C;5;5;How much time did you usually spend doing moderate physical activities on one of those days? Please answer in hours and minutes_30 minutes
+VAL;MODT;1;C;6;6;How much time did you usually spend doing moderate physical activities on one of those days? Please answer in hours and minutes_0
+VAL;MODT;1;C;7;7;How much time did you usually spend doing moderate physical activities on one of those days? Please answer in hours and minutes_90 minutes
+VAL;MODT;1;C;8;8;How much time did you usually spend doing moderate physical activities on one of those days? Please answer in hours and minutes_45 minutes
+NAME;MODT;1;C;;;How much time did you usually spend doing moderate physical activities on one of those days? Please answer in hours and minutes
+VAL;WALK;3;N;3.0;3.0;Think about the time you spent walking in the last 7 days. This includes at work and at home, walking to travel from place to place, and any other walking that you have done solely for recreation, sport, exercise, or leisure.    During the last 7 days, on_3.0_3.0
+VAL;WALK;3;N;4.0;4.0;Think about the time you spent walking in the last 7 days. This includes at work and at home, walking to travel from place to place, and any other walking that you have done solely for recreation, sport, exercise, or leisure.    During the last 7 days, on_4.0_4.0
+VAL;WALK;3;N;5.0;5.0;Think about the time you spent walking in the last 7 days. This includes at work and at home, walking to travel from place to place, and any other walking that you have done solely for recreation, sport, exercise, or leisure.    During the last 7 days, on_5.0_5.0
+VAL;WALK;3;N;6.0;6.0;Think about the time you spent walking in the last 7 days. This includes at work and at home, walking to travel from place to place, and any other walking that you have done solely for recreation, sport, exercise, or leisure.    During the last 7 days, on_6.0_6.0
+VAL;WALK;3;N;7.0;7.0;Think about the time you spent walking in the last 7 days. This includes at work and at home, walking to travel from place to place, and any other walking that you have done solely for recreation, sport, exercise, or leisure.    During the last 7 days, on_7.0_7.0
+NAME;WALK;3;N;;;Think about the time you spent walking in the last 7 days. This includes at work and at home, walking to travel from place to place, and any other walking that you have done solely for recreation, sport, exercise, or leisure.    During the last 7 days, on
+VAL;WKT;1;C;1;1;How much time did you usually spend walking on one of those days? Please answer in hours and minutes._6
+VAL;WKT;1;C;2;2;How much time did you usually spend walking on one of those days? Please answer in hours and minutes._1 hour
+VAL;WKT;1;C;3;3;How much time did you usually spend walking on one of those days? Please answer in hours and minutes._20-30 minutes
+VAL;WKT;1;C;4;4;How much time did you usually spend walking on one of those days? Please answer in hours and minutes._30 minutes
+VAL;WKT;1;C;5;5;How much time did you usually spend walking on one of those days? Please answer in hours and minutes._90 minutes
+VAL;WKT;1;C;6;6;How much time did you usually spend walking on one of those days? Please answer in hours and minutes._15 minutes
+VAL;WKT;1;C;7;7;How much time did you usually spend walking on one of those days? Please answer in hours and minutes._40 minutes
+VAL;WKT;1;C;8;8;How much time did you usually spend walking on one of those days? Please answer in hours and minutes._7 hours
+VAL;WKT;1;C;9;9;How much time did you usually spend walking on one of those days? Please answer in hours and minutes._10 hours
+VAL;WKT;2;C;10;10;How much time did you usually spend walking on one of those days? Please answer in hours and minutes._2-3 hours
+NAME;WKT;2;C;;;How much time did you usually spend walking on one of those days? Please answer in hours and minutes.
+VAL;SIT;1;C;1;1;The last question is about the time you spent sitting on weekdays during the last 7 days.  Include time spent at work, at home, while doing course work and during leisure time.  This may include time spent sitting at a desk, visiting friends, reading, or_5 hours
+VAL;SIT;1;C;2;2;The last question is about the time you spent sitting on weekdays during the last 7 days.  Include time spent at work, at home, while doing course work and during leisure time.  This may include time spent sitting at a desk, visiting friends, reading, or_10 hours
+VAL;SIT;1;C;3;3;The last question is about the time you spent sitting on weekdays during the last 7 days.  Include time spent at work, at home, while doing course work and during leisure time.  This may include time spent sitting at a desk, visiting friends, reading, or_8 hours
+VAL;SIT;1;C;4;4;The last question is about the time you spent sitting on weekdays during the last 7 days.  Include time spent at work, at home, while doing course work and during leisure time.  This may include time spent sitting at a desk, visiting friends, reading, or_3-4 hours
+VAL;SIT;1;C;5;5;The last question is about the time you spent sitting on weekdays during the last 7 days.  Include time spent at work, at home, while doing course work and during leisure time.  This may include time spent sitting at a desk, visiting friends, reading, or_4 hours
+VAL;SIT;1;C;6;6;The last question is about the time you spent sitting on weekdays during the last 7 days.  Include time spent at work, at home, while doing course work and during leisure time.  This may include time spent sitting at a desk, visiting friends, reading, or_3 hours
+VAL;SIT;1;C;7;7;The last question is about the time you spent sitting on weekdays during the last 7 days.  Include time spent at work, at home, while doing course work and during leisure time.  This may include time spent sitting at a desk, visiting friends, reading, or_7 hours
+NAME;SIT;1;C;;;The last question is about the time you spent sitting on weekdays during the last 7 days.  Include time spent at work, at home, while doing course work and during leisure time.  This may include time spent sitting at a desk, visiting friends, reading, or
+VAL;OLIV;1;C;1;1;Dietary Habits Questions (14-item questionnaire for Adherence to Mediterranean diet)    Do you use olive oil as a main culinary fat?_no
+VAL;OLIV;1;C;2;2;Dietary Habits Questions (14-item questionnaire for Adherence to Mediterranean diet)    Do you use olive oil as a main culinary fat?_yes
+NAME;OLIV;1;C;;;Dietary Habits Questions (14-item questionnaire for Adherence to Mediterranean diet)    Do you use olive oil as a main culinary fat?
+VAL;OLAM;1;C;1;1;How much olive oil do you consume in a given day (including oil used for frying, salads, out-of-house meals, etc.)?_?4 tbsp
+VAL;OLAM;1;C;2;2;How much olive oil do you consume in a given day (including oil used for frying, salads, out-of-house meals, etc.)?_<4 tbsp
+VAL;OLAM;1;C;3;3;How much olive oil do you consume in a given day (including oil used for frying, salads, out-of-house meals, etc.)?_?4
+NAME;OLAM;1;C;;;How much olive oil do you consume in a given day (including oil used for frying, salads, out-of-house meals, etc.)?
+VAL;VEG;1;C;1;1;How many vegetable servings do you consume per day? (1 serving : 200 g [consider side dishes as half a serving])_?2
+VAL;VEG;1;C;2;2;How many vegetable servings do you consume per day? (1 serving : 200 g [consider side dishes as half a serving])_<2
+NAME;VEG;1;C;;;How many vegetable servings do you consume per day? (1 serving : 200 g [consider side dishes as half a serving])
+VAL;FRUTU;1;C;1;1;How many fruit units (including natural fruit juices) do you consume per day?_<3
+VAL;FRUTU;1;C;2;2;How many fruit units (including natural fruit juices) do you consume per day?_?3
+NAME;FRUTU;1;C;;;How many fruit units (including natural fruit juices) do you consume per day?
+VAL;RED;1;C;1;1;How many servings of red meat, hamburger, or meat products (ham, sausage, etc.) do you consume per day? (1 serving: 100-150 g)_>1
+VAL;RED;1;C;2;2;How many servings of red meat, hamburger, or meat products (ham, sausage, etc.) do you consume per day? (1 serving: 100-150 g)_<1
+NAME;RED;1;C;;;How many servings of red meat, hamburger, or meat products (ham, sausage, etc.) do you consume per day? (1 serving: 100-150 g)
+VAL;BUT;1;C;1;1;How many servings of butter, margarine, or cream do you consume per day? (1 serving: 12 g)_?1
+VAL;BUT;1;C;2;2;How many servings of butter, margarine, or cream do you consume per day? (1 serving: 12 g)_<1
+NAME;BUT;1;C;;;How many servings of butter, margarine, or cream do you consume per day? (1 serving: 12 g)
+VAL;SWBV;1;C;1;1;How many sweet or carbonated beverages do you drink per day?_?1
+VAL;SWBV;1;C;2;2;How many sweet or carbonated beverages do you drink per day?_<1
+NAME;SWBV;1;C;;;How many sweet or carbonated beverages do you drink per day?
+VAL;WINE;1;C;1;1;How much wine do you drink per week?_?7 glasses
+VAL;WINE;1;C;2;2;How much wine do you drink per week?_<7 glasses
+VAL;WINE;1;C;3;3;How much wine do you drink per week?_>7 glasses
+NAME;WINE;1;C;;;How much wine do you drink per week?
+VAL;LEG;1;C;1;1;How many servings of legumes do you consume per week? (1 serving: 150 g)_?3
+VAL;LEG;1;C;2;2;How many servings of legumes do you consume per week? (1 serving: 150 g)_<3
+NAME;LEG;1;C;;;How many servings of legumes do you consume per week? (1 serving: 150 g)
+VAL;FISH;1;C;1;1;How many servings of fish or shellfish do you consume per week? (1 serving 100-150 g of fish or 4-5 units or 200 g of shellfish)_<3
+VAL;FISH;1;C;2;2;How many servings of fish or shellfish do you consume per week? (1 serving 100-150 g of fish or 4-5 units or 200 g of shellfish)_?3
+NAME;FISH;1;C;;;How many servings of fish or shellfish do you consume per week? (1 serving 100-150 g of fish or 4-5 units or 200 g of shellfish)
+VAL;SWTPT;1;C;1;1;How many times per week do you consume commercial sweets or pastries (not homemade), such as cakes, cookies, biscuits, or custard?_?3
+VAL;SWTPT;1;C;2;2;How many times per week do you consume commercial sweets or pastries (not homemade), such as cakes, cookies, biscuits, or custard?_<3
+NAME;SWTPT;1;C;;;How many times per week do you consume commercial sweets or pastries (not homemade), such as cakes, cookies, biscuits, or custard?
+VAL;NUTS;1;C;1;1;How many servings of nuts (including peanuts) do you consume per week? (1 serving 30 g)_<3
+VAL;NUTS;1;C;2;2;How many servings of nuts (including peanuts) do you consume per week? (1 serving 30 g)_?3
+NAME;NUTS;1;C;;;How many servings of nuts (including peanuts) do you consume per week? (1 serving 30 g)
+VAL;PREF;1;C;1;1;Do you preferentially consume chicken, turkey, or rabbit meat instead of veal, pork, hamburger, or sausage?_yes
+VAL;PREF;1;C;2;2;Do you preferentially consume chicken, turkey, or rabbit meat instead of veal, pork, hamburger, or sausage?_no
+NAME;PREF;1;C;;;Do you preferentially consume chicken, turkey, or rabbit meat instead of veal, pork, hamburger, or sausage?
+VAL;SOF;1;C;1;1;How many times per week do you consume vegetables, pasta, rice, or other dishes seasoned with sofrito (sauce made with tomato and onion, leek, or garlic and simmered with olive oil)?_?2
+VAL;SOF;1;C;2;2;How many times per week do you consume vegetables, pasta, rice, or other dishes seasoned with sofrito (sauce made with tomato and onion, leek, or garlic and simmered with olive oil)?_<2
+NAME;SOF;1;C;;;How many times per week do you consume vegetables, pasta, rice, or other dishes seasoned with sofrito (sauce made with tomato and onion, leek, or garlic and simmered with olive oil)?
+VAL;CMPL;1;C;1;1;Complete?_yes
+NAME;CMPL;1;C;;;Complete?
+VAL;PGT;1;C;1;1;Pregnancy test done on women of child-bearing age? Report result_negative
+NAME;PGT;1;C;;;Pregnancy test done on women of child-bearing age? Report result
+VAL;PWGTP;4;N;60.1;74.4;Weight (kg)_60.1_74.4
+VAL;PWGTP;4;N;74.4;82.7;Weight (kg)_74.4_82.7
+VAL;PWGTP;4;N;82.7;88.9;Weight (kg)_82.7_88.9
+VAL;PWGTP;4;N;88.9;96.2;Weight (kg)_88.9_96.2
+VAL;PWGTP;5;N;96.2;118.1;Weight (kg)_96.2_118.1
+NAME;PWGTP;5;N;;;Weight (kg)
+VAL;PHGTP;5;N;151.6;156.8;Height (cm)_151.6_156.8
+VAL;PHGTP;5;N;156.8;163.0;Height (cm)_156.8_163.0
+VAL;PHGTP;6;N;163.0;167.46;Height (cm)_163.0_167.46
+VAL;PHGTP;5;N;167.46;171.0;Height (cm)_167.46_171.0
+VAL;PHGTP;5;N;171.0;175.0;Height (cm)_171.0_175.0
+NAME;PHGTP;5;N;;;Height (cm)
+VAL;BMI25;1;C;1;1;BMI (>25 kg/m2)_40,3
+VAL;BMI25;1;C;2;2;BMI (>25 kg/m2)_32,3
+VAL;BMI25;1;C;3;3;BMI (>25 kg/m2)_30,9
+VAL;BMI25;1;C;4;4;BMI (>25 kg/m2)_27,1
+VAL;BMI25;1;C;5;5;BMI (>25 kg/m2)_30,6
+VAL;BMI25;1;C;6;6;BMI (>25 kg/m2)_29,2
+VAL;BMI25;1;C;7;7;BMI (>25 kg/m2)_42,3
+VAL;BMI25;1;C;8;8;BMI (>25 kg/m2)_29,4
+VAL;BMI25;1;C;9;9;BMI (>25 kg/m2)_27,2
+VAL;BMI25;2;C;10;10;BMI (>25 kg/m2)_32,9
+VAL;BMI25;2;C;11;11;BMI (>25 kg/m2)_25,8
+VAL;BMI25;2;C;12;12;BMI (>25 kg/m2)_30,4
+VAL;BMI25;2;C;13;13;BMI (>25 kg/m2)_29,7
+VAL;BMI25;2;C;14;14;BMI (>25 kg/m2)_41,2
+VAL;BMI25;2;C;15;15;BMI (>25 kg/m2)_34,6
+VAL;BMI25;2;C;16;16;BMI (>25 kg/m2)_29,6
+VAL;BMI25;2;C;17;17;BMI (>25 kg/m2)_33,3
+VAL;BMI25;2;C;18;18;BMI (>25 kg/m2)_37,1
+VAL;BMI25;2;C;19;19;BMI (>25 kg/m2)_29
+NAME;BMI25;2;C;;;BMI (>25 kg/m2)
+VAL;TRI;1;C;1;1;Raised Triglycerides ( ? 100 mg/dL (1.7 mmol/L))_yes
+VAL;TRI;1;C;2;2;Raised Triglycerides ( ? 100 mg/dL (1.7 mmol/L))_no
+NAME;TRI;1;C;;;Raised Triglycerides ( ? 100 mg/dL (1.7 mmol/L))
+VAL;HDL;1;C;1;1;Reduced HDL cholesterol: < 40 mg/dL (1.03 mmol/L) in males or < 50 mg/dL (1.29mmol/L) in females._no
+VAL;HDL;1;C;2;2;Reduced HDL cholesterol: < 40 mg/dL (1.03 mmol/L) in males or < 50 mg/dL (1.29mmol/L) in females._yes
+NAME;HDL;1;C;;;Reduced HDL cholesterol: < 40 mg/dL (1.03 mmol/L) in males or < 50 mg/dL (1.29mmol/L) in females.
+VAL;BP;1;C;1;1;Raised blood pressure: systolic BP ? 130 or diastolic BP ? 85 mm Hg._yes
+VAL;BP;1;C;2;2;Raised blood pressure: systolic BP ? 130 or diastolic BP ? 85 mm Hg._no
+NAME;BP;1;C;;;Raised blood pressure: systolic BP ? 130 or diastolic BP ? 85 mm Hg.
+VAL;FPG;1;C;1;1;Raised fasting plasma glucose (FPG): ? 90 mg/dL (5.0 mmol/L)._no
+VAL;FPG;1;C;2;2;Raised fasting plasma glucose (FPG): ? 90 mg/dL (5.0 mmol/L)._yes
+NAME;FPG;1;C;;;Raised fasting plasma glucose (FPG): ? 90 mg/dL (5.0 mmol/L).
+VAL;CSM;1;C;1;1;Current smokers_yes
+VAL;CSM;1;C;2;2;Current smokers_no
+NAME;CSM;1;C;;;Current smokers
+VAL;DIAB;1;C;1;1;Do you have any of the following chronic medical conditions?        (choice=Diabetes)_no
+NAME;DIAB;1;C;;;Do you have any of the following chronic medical conditions?        (choice=Diabetes)
+VAL;HYP;1;C;1;1;Do you have any of the following chronic medical conditions?        (choice=Hypertension)_no
+VAL;HYP;1;C;2;2;Do you have any of the following chronic medical conditions?        (choice=Hypertension)_yes
+NAME;HYP;1;C;;;Do you have any of the following chronic medical conditions?        (choice=Hypertension)
+VAL;HYPM;1;C;1;1;Do you have any of the following chronic medical conditions?        (choice=Hypertension with medication)_no
+VAL;HYPM;1;C;2;2;Do you have any of the following chronic medical conditions?        (choice=Hypertension with medication)_yes
+NAME;HYPM;1;C;;;Do you have any of the following chronic medical conditions?        (choice=Hypertension with medication)
+VAL;DYS;1;C;1;1;Do you have any of the following chronic medical conditions?        (choice=Dyslipidaemia (imbalance of lipids such as cholesterol, low-density lipoprotein cholesterol, (LDL-C), triglycerides, and high-density lipoprotein (HDL)).)_no
+VAL;DYS;1;C;2;2;Do you have any of the following chronic medical conditions?        (choice=Dyslipidaemia (imbalance of lipids such as cholesterol, low-density lipoprotein cholesterol, (LDL-C), triglycerides, and high-density lipoprotein (HDL)).)_yes
+NAME;DYS;1;C;;;Do you have any of the following chronic medical conditions?        (choice=Dyslipidaemia (imbalance of lipids such as cholesterol, low-density lipoprotein cholesterol, (LDL-C), triglycerides, and high-density lipoprotein (HDL)).)
+VAL;DYSM;1;C;1;1;Do you have any of the following chronic medical conditions?        (choice=Dyslipidaemia controlled with medication)_no
+VAL;DYSM;1;C;2;2;Do you have any of the following chronic medical conditions?        (choice=Dyslipidaemia controlled with medication)_yes
+NAME;DYSM;1;C;;;Do you have any of the following chronic medical conditions?        (choice=Dyslipidaemia controlled with medication)
+VAL;CVD;1;C;1;1;Do you have any of the following chronic medical conditions?        (choice=Cardiovascular disease)_no
+NAME;CVD;1;C;;;Do you have any of the following chronic medical conditions?        (choice=Cardiovascular disease)
+VAL;GAST;1;C;1;1;Do you have any of the following chronic medical conditions?        (choice=Chronic gastrointestinal condition)_no
+NAME;GAST;1;C;;;Do you have any of the following chronic medical conditions?        (choice=Chronic gastrointestinal condition)
+VAL;CANC;1;C;1;1;Do you have any of the following chronic medical conditions?        (choice=Cancer)_no
+NAME;CANC;1;C;;;Do you have any of the following chronic medical conditions?        (choice=Cancer)
+VAL;INF;1;C;1;1;Do you have any of the following chronic medical conditions?        (choice=Acute infectious disease)_no
+NAME;INF;1;C;;;Do you have any of the following chronic medical conditions?        (choice=Acute infectious disease)
+VAL;REN;1;C;1;1;Do you have any of the following chronic medical conditions?        (choice=Renal disease)_no
+NAME;REN;1;C;;;Do you have any of the following chronic medical conditions?        (choice=Renal disease)
+VAL;CHR;1;C;1;1;Do you have any of the following chronic medical conditions?        (choice=None that I am aware of)_no
+NAME;CHR;1;C;;;Do you have any of the following chronic medical conditions?        (choice=None that I am aware of)
+VAL;ACE;1;C;1;1;Do you take any current medication? (choice=ACE inhibitors)_no
+NAME;ACE;1;C;;;Do you take any current medication? (choice=ACE inhibitors)
+VAL;DIU;1;C;1;1;Do you take any current medication? (choice=Diuretics)_no
+NAME;DIU;1;C;;;Do you take any current medication? (choice=Diuretics)
+VAL;OAH;1;C;1;1;Do you take any current medication? (choice=Other antihypertensive agents)_no
+VAL;OAH;1;C;2;2;Do you take any current medication? (choice=Other antihypertensive agents)_yes, bisoprolol fumarate, olmesartan mexodimil
+VAL;OAH;1;C;3;3;Do you take any current medication? (choice=Other antihypertensive agents)_yes, candersastan
+VAL;OAH;1;C;4;4;Do you take any current medication? (choice=Other antihypertensive agents)_yes, amlodipine
+NAME;OAH;1;C;;;Do you take any current medication? (choice=Other antihypertensive agents)
+VAL;STA;1;C;1;1;Do you take any current medication? (choice=Statins)_no
+VAL;STA;1;C;2;2;Do you take any current medication? (choice=Statins)_yes, atorvastatin, ezetimibe
+NAME;STA;1;C;;;Do you take any current medication? (choice=Statins)
+VAL;OLP;1;C;1;1;Do you take any current medication? (choice=Other lipid-lowering agents)_no
+NAME;OLP;1;C;;;Do you take any current medication? (choice=Other lipid-lowering agents)
+VAL;INS;1;C;1;1;Do you take any current medication? (choice=Insulin)_no
+NAME;INS;1;C;;;Do you take any current medication? (choice=Insulin)
+VAL;ORH;1;C;1;1;Do you take any current medication? (choice=Oral hypoglycaemic agents)_no
+NAME;ORH;1;C;;;Do you take any current medication? (choice=Oral hypoglycaemic agents)
+VAL;ANT;1;C;1;1;Do you take any current medication? (choice=Aspiring or Antiplatelet therapy)_no
+NAME;ANT;1;C;;;Do you take any current medication? (choice=Aspiring or Antiplatelet therapy)
+VAL;HOR;1;C;1;1;Do you take any current medication? (choice=Hormone-replacement therapy)_no
+VAL;HOR;1;C;2;2;Do you take any current medication? (choice=Hormone-replacement therapy)_yes
+NAME;HOR;1;C;;;Do you take any current medication? (choice=Hormone-replacement therapy)
+VAL;PAI;1;C;1;1;Do you take any current medication? (choice=Pain medication)_no
+NAME;PAI;1;C;;;Do you take any current medication? (choice=Pain medication)
+VAL;ANTD;1;C;1;1;Do you take any current medication? (choice=Antidepressants)_yes
+VAL;ANTD;1;C;2;2;Do you take any current medication? (choice=Antidepressants)_no
+VAL;ANTD;1;C;3;3;Do you take any current medication? (choice=Antidepressants)_yes, aripiprazole
+NAME;ANTD;1;C;;;Do you take any current medication? (choice=Antidepressants)
+VAL;SUP;1;C;1;1;Do you take any current medication? (choice=Supplements (Vitamins, minerals, fatty acids, probiotics))_no
+VAL;SUP;1;C;2;2;Do you take any current medication? (choice=Supplements (Vitamins, minerals, fatty acids, probiotics))_yes
+VAL;SUP;1;C;3;3;Do you take any current medication? (choice=Supplements (Vitamins, minerals, fatty acids, probiotics))_yes, vitamin supplements
+NAME;SUP;1;C;;;Do you take any current medication? (choice=Supplements (Vitamins, minerals, fatty acids, probiotics))
+VAL;STH;1;C;1;1;Do you take any current medication? (choice=Others)_no
+VAL;STH;1;C;2;2;Do you take any current medication? (choice=Others)_promethazine
+VAL;STH;1;C;3;3;Do you take any current medication? (choice=Others)_period pain management
+VAL;STH;1;C;4;4;Do you take any current medication? (choice=Others)_fexofenadine for hay fever
+NAME;STH;1;C;;;Do you take any current medication? (choice=Others)
+VAL;MEDI;1;C;1;1;Do you take any current medication? (choice=None:)_no
+NAME;MEDI;1;C;;;Do you take any current medication? (choice=None:)
+VAL;ABX;1;C;1;1;Have you used antibiotics in the past 3 months?_no
+NAME;ABX;1;C;;;Have you used antibiotics in the past 3 months?
+VAL;FALL;1;C;1;1;Do you have any food allergies?_no
+VAL;FALL;1;C;2;2;Do you have any food allergies?_yes, bamboo shoots
+VAL;FALL;1;C;3;3;Do you have any food allergies?_peanut allergy
+NAME;FALL;1;C;;;Do you have any food allergies?
+VAL;RES;1;C;1;1;Have you taken part in any research studies in the past 3 months?_no
+NAME;RES;1;C;;;Have you taken part in any research studies in the past 3 months?
+VAL;WGTCN;4;N;-2.0;-2.0;Have you lost or gained weight in the past 3 months? If yes, how much?_-2.0_-2.0
+VAL;WGTCN;4;N;-1.0;-1.0;Have you lost or gained weight in the past 3 months? If yes, how much?_-1.0_-1.0
+VAL;WGTCN;3;N;0.0;0.0;Have you lost or gained weight in the past 3 months? If yes, how much?_0.0_0.0
+VAL;WGTCN;4;N;2.75;2.75;Have you lost or gained weight in the past 3 months? If yes, how much?_2.75_2.75
+VAL;WGTCN;3;N;3.0;3.0;Have you lost or gained weight in the past 3 months? If yes, how much?_3.0_3.0
+NAME;WGTCN;3;N;;;Have you lost or gained weight in the past 3 months? If yes, how much?
+VAL;ILL;1;C;1;1;Do you currently suffer from any long-term illness?  If Yes, please specify._mental health issues
+VAL;ILL;1;C;2;2;Do you currently suffer from any long-term illness?  If Yes, please specify._acid reflux, back problem
+VAL;ILL;1;C;3;3;Do you currently suffer from any long-term illness?  If Yes, please specify._no
+VAL;ILL;1;C;4;4;Do you currently suffer from any long-term illness?  If Yes, please specify._joint pains
+VAL;ILL;1;C;5;5;Do you currently suffer from any long-term illness?  If Yes, please specify._endometriosis
+VAL;ILL;1;C;6;6;Do you currently suffer from any long-term illness?  If Yes, please specify._hypertension, high cholesterol
+VAL;ILL;1;C;7;7;Do you currently suffer from any long-term illness?  If Yes, please specify._hypertension
+VAL;ILL;1;C;8;8;Do you currently suffer from any long-term illness?  If Yes, please specify._pre-diabetic last year
+NAME;ILL;1;C;;;Do you currently suffer from any long-term illness?  If Yes, please specify.
+VAL;PREG;1;C;1;1;Are you pregnant, breast feeding, planning to get pregnant or your partner is planning to get pregnant, in the next 12 months?_no
+NAME;PREG;1;C;;;Are you pregnant, breast feeding, planning to get pregnant or your partner is planning to get pregnant, in the next 12 months?
+VAL;WKHP;4;N;16.0;16.0;Hours worked per week_16.0_16.0
+VAL;WKHP;4;N;20.0;20.0;Hours worked per week_20.0_20.0
+VAL;WKHP;4;N;40.0;40.0;Hours worked per week_40.0_40.0
+NAME;WKHP;4;N;;;Hours worked per week
+VAL;WGTC;1;C;1;1;Have you lost or gained weight in the past 3 months?_no change
+VAL;WGTC;1;C;2;2;Have you lost or gained weight in the past 3 months?_lost
+VAL;WGTC;1;C;3;3;Have you lost or gained weight in the past 3 months?_gained
+NAME;WGTC;1;C;;;Have you lost or gained weight in the past 3 months?
+VAL;RAC1P;1;N;1;1;Ethnicity_Is White or Not_1_1
+VAL;RAC1P;1;N;2;2;Ethnicity_Is White or Not_2_2
+NAME;RAC1P;1;N;;;Ethnicity_Is White or Not
+VAL;SOW;1;C;1;1;Status of worker_nan
+VAL;SOW;1;C;2;2;Status of worker_working
+VAL;SOW;1;C;3;3;Status of worker_not working
+VAL;SOW;1;C;4;4;Status of worker_retired
+NAME;SOW;1;C;;;Status of worker
+VAL;COW;1;C;1;1;Class of worker_n/a (less than 16 years old/nilf who last worked more than 5 years ago or never worked)
+VAL;COW;1;C;2;2;Class of worker_employee of a private for-profit company or business, or of an individual, for wages, salary, or commissions
+VAL;COW;1;C;3;3;Class of worker_unemployed and last worked 5 years ago or earlier or never worked
+VAL;COW;1;C;4;4;Class of worker_self-employed in own not incorporated business, professional practice, or farm
+VAL;COW;1;C;5;5;Class of worker_working without pay in family business or farm
+VAL;COW;1;C;6;6;Class of worker_local government employee (city, county, etc.)
+NAME;COW;1;C;;;Class of worker
+VAL;DOW;3;N;-5.0;1.0;Decades of working_-5.0_1.0
+VAL;DOW;3;N;1.0;9.0;Decades of working_1.0_9.0
+VAL;DOW;4;N;9.0;14.0;Decades of working_9.0_14.0
+VAL;DOW;4;N;14.0;33.2;Decades of working_14.0_33.2
+VAL;DOW;4;N;33.2;40.0;Decades of working_33.2_40.0
+NAME;DOW;4;N;;;Decades of working
+VAL;CIOR;1;C;1;1;City of Residence_london
+VAL;CIOR;1;C;2;2;City of Residence_dunstable
+VAL;CIOR;1;C;3;3;City of Residence_essex
+VAL;CIOR;1;C;4;4;City of Residence_southampton
+VAL;CIOR;1;C;5;5;City of Residence_godmanchester
+VAL;CIOR;1;C;6;6;City of Residence_northampton
+VAL;CIOR;1;C;7;7;City of Residence_welwyn
+NAME;CIOR;1;C;;;City of Residence
+VAL;COR;1;C;1;1;Country of Residence_uk
+NAME;COR;1;C;;;Country of Residence
