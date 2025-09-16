@@ -1,0 +1,334 @@
+abbr;column_name;type
+SERIALNO;User ID;C
+PID;patient;C
+VST;visit;C
+MEAL;Meal ID;N
+FOOD;Food ID;N
+NTBL;Nutrient table code;N
+FGRC;Food group code;N
+RDYM;Ready meal;N
+SVSZ;Serving size (g/ml);N
+LEFT;Leftovers (g/ml);N
+PRSZ;Portion size (g/ml);N
+RSON;Reasonable amount;N
+WATR;Water;N
+TNIT;Total nitrogen;N
+NCVF;Nitrogen conversion factor;N
+FAT;Fat;N
+CARB;Carbohydrate;N
+KCAL;Energy (kcal);N
+KJ;Energy (kJ);N
+ALC;Alcohol;N
+FIBR;Englyst fibre;N
+STCH;Starch;N
+TSUG;Total sugars;N
+AOAC;AOAC;N
+NMXS;Non-milk extrinsic sugars;N
+IMLS;Intrinsic and milk sugars;N
+GLUC;Glucose;N
+FRUC;Fructose;N
+MALT;Maltose;N
+LACT;Lactose;N
+SUCR;Sucrose;N
+OTSU;Other sugars (UK);N
+FSTB;FS Table sugar;N
+FSOA;FS Other Added Sugar;N
+FSHN;FS Honey;N
+FSFJ;FS Fruit Juice;N
+FSDR;FS Dried Fruit;N
+FSFP;FS Fruit Puree;N
+FSSF;FS Stewed Fruit;N
+FSVP;FS Vegetable Puree;N
+SFAT;Satd FA;N
+CIS1;Cis-Mon FA;N
+CIS3;Cis-n3 FA;N
+CIS6;Cis-n6 FA;N
+TRFA;Trans FA;N
+CHOL;Cholesterol;N
+RETL;Retinol;N
+TCAR;Total carotene;N
+ACAR;Alpha-carotene;N
+BCAR;Beta-carotene;N
+BCRY;Beta cryptoxanthin;N
+VITA;Vitamin A;N
+VITD;Vitamin D;N
+THIA;Thiamin;N
+RIBF;Riboflavin;N
+NIAC;Niacin;N
+TRYP;Tryptophan/60;N
+NIQE;Niacin equivalent;N
+VITC;Vitamin C;N
+VITE;Vitamin E;N
+B6;Vitamin B6;N
+B12;Vitamin B12;N
+FOL;Folate;N
+PANT;Pantothenic acid;N
+BIOT;Biotin;N
+SOD;Sodium;N
+POT;Potassium;N
+CAL;Calcium;N
+MG;Magnesium;N
+PHOS;Phosphorus;N
+IRON;Iron;N
+HAIR;Haem iron;N
+NIRN;Non-haem iron;N
+COPP;Copper;N
+ZN;Zinc;N
+CL;Chloride;N
+IOD;Iodine;N
+MN;Manganese;N
+SE;Selenium;N
+TFS;Total FS;N
+FRUT;Fruit;N
+DRFR;Dried fruit;N
+FJUI;Fruit juice;N
+SMFR;Smoothie fruit;N
+TOMA;Tomatoes;N
+TPUR;Tomato puree;N
+BRAS;Brassicaceae;N
+YRG;Yellow Red Green;N
+BEAN;Beans;N
+NUT;Nuts;N
+OVEG;Other Vegetables;N
+BEEF;Beef;N
+LAMB;Lamb;N
+PORK;Pork;N
+PRRM;Processed Red Meat;N
+ORRM;Other Red Meat;N
+BURG;Burgers;N
+SAUS;Sausages;N
+OFFL;Offal;N
+POUL;Poultry;N
+PRPL;Processed Poultry;N
+GMB;Game Birds;N
+WFIS;White Fish;N
+OFIS;Oily Fish;N
+CTUN;Canned Tuna;N
+SHEL;Shellfish;N
+CCHE;Cottage Cheese;N
+CHEC;Cheddar Cheese;N
+OTCH;Other Cheese;N
+WKHP;Hours worked per week;N
+DOW;Decades of working;N
+SOW;Status of worker;C
+COW;Class of worker;C
+PWGTP;Weight (kg);N
+PHGTP;Height (cm);N
+DOBP;Date of Birth;C
+POBP;Place of Birth;C
+POR;Place of Residence;C
+CIOR;City of Residence;C
+COR;Country of Residence;C
+SEX;Sex;C
+AGEP;age;N
+ETH;Ethnicity;C
+RAC1P;Ethnicity_Is White or Not;C
+MAR;Marital status;C
+PINCP;Salary (annual net salary);N
+WGTC;Have you lost or gained weight in the past 3 months?;C
+WGTCN;Have you lost or gained weight in the past 3 months? If yes, how much?;N
+LIV;Living Status;C
+EMP;Employment Status;C
+SFTP;If you answered shift worker, please describe your shifts patterns;C
+EDU;Education Level;C
+SMK;Smoking status;C
+DIET;Are you following a specific diet?;C
+ODIET;If you filled in other for diet, please describe your diet;C
+MED;Medical history. Did you have any of the following conditions?;C
+OMED;If you answered other in the above question please describe here your medical history;C
+SLPWK;How many hours per day do you sleep during workdays?;N
+SLPFD;How many hours per day do you sleep during free days?;N
+NAP;Do you take naps during the day?;C
+NAPD;If you answered yes in the above question, please mention how many naps and how long they are.;N
+SLPQ;Rate your sleep quality (1: very bad, 5: very good);C
+VIG;How much time did you usually spend doing vigorous physical activities on one of those days? Please answer in hours and minutes per day.;C
+PGT;Pregnancy test done on women of child-bearing age? Report result;C
+BMI25;BMI (>25 kg/m2);C
+CSM;Current smokers;C
+ABX;Have you used antibiotics in the past 3 months?;C
+FALL;Do you have any food allergies?;C
+RES;Have you taken part in any research studies in the past 3 months?;C
+PREGP;Are you pregnant, breast feeding, planning to get pregnant or your partner is planning to get pregnant, in the next 12 months?;C
+NIT;Nitrogen conversion factor;C
+NMS;Non-milk extrinsic sugars;C
+IMS;Intrinsic and milk sugars;C
+FSUG;FS Other Added Sugar;C
+TPLN;protein;N
+VOLT;Volunteer ID;C
+WKTM;Working time;C
+CMPL;Complete?;C
+AE;ae;N
+AI;ai;N
+ANAC;ans-activity;N
+ANBL;ans-balance;N
+APEN;apen;N
+ALFT;arms/legs-fat;N
+BFA;bfm-of-arm-&-leg;N
+BFMC;bfm-control;N
+BFLA;bfm-of-left-arm;N
+BFLL;bfm-of-left-leg;N
+BFRA;bfm-of-right-arm;N
+BFRL;bfm-of-right-leg;N
+BFTR;bfm-of-trunk;N
+BFM;bfm-(body-fat-mass);N
+BMC;bmc-(bone-mineral-content);N
+CONI;conicity-index;N
+ECMB;ecm/bcm;N
+ECTB;ectopic-beat;N
+ECLA;ecw-of-left-arm;N
+ECLL;ecw-of-left-leg;N
+ECRA;ecw-of-right-arm;N
+ECRL;ecw-of-right-leg;N
+ECTR;ecw-of-trunk;N
+ECTLA;ecw/tbw-of-left-arm;N
+ECTLL;ecw/tbw-of-left-leg;N
+ECTRA;ecw/tbw-of-right-arm;N
+ECTRL;ecw/tbw-of-right-leg;N
+ECTRT;ecw/tbw-of-trunk;N
+ECTW;ecw/tbw;N
+FATI;fatigue-index;N
+FFMC;ffm-control;N
+FFM;ffm-(fat-free-mass);N
+HGT;height;N
+HFLN;hf(ln);N
+HR;hr;N
+ICLA;icw-of-left-arm;N
+ICLL;icw-of-left-leg;N
+ICRA;icw-of-right-arm;N
+ICRL;icw-of-right-leg;N
+ICTR;icw-of-trunk;N
+INBS;inbody-score;N
+INBT;inbody-type;N
+LFLN;lf(ln);N
+LFHF;lf/hf;N
+LCID;local-id;N
+MHRT;mean-hrt;N
+MINR;minerals;N
+OBES;obesity-degree;N
+PBF;pbf-(percent-body-fat);N
+PE;pe;N
+PROT;Protein;N
+PSI;psi;N
+RHT;r/ht;N
+RMSSD;rmssd;N
+SDNN;sdnn;N
+SMWT;smm/wt;N
+SRD;srd;N
+STIN;stress-index;N
+STRE;stress-resilience;N
+TBLA;tbw-of-left-arm;N
+TBLL;tbw-of-left-leg;N
+TBRA;tbw-of-right-arm;N
+TBRL;tbw-of-right-leg;N
+TBTR;tbw-of-trunk;N
+TBFF;tbw/ffm;N
+TBWT;tbw/wt;N
+TP;tp(ln);N
+TSRD;tsrd;N
+VLFL;vlf(ln);N
+WCTR;weight-control;N
+WGHT;weight;N
+XCHT;xc/ht;N
+ABSI;absi(a-body-shaped-index);N
+AC;ac-(arm-circumference);N
+AFLL;af-ll(abdominal-fat-llimit);N
+AFUL;af-ul(abdominal-fat-ulimit);N
+AMC;amc-(arm-muscle-circumference);N
+BAI;bai(body-adiposity-index);N
+BCM;bcm-(body-cell-mass);N
+BMI;bmi-(body-mass-index);N
+BMR;bmr-(basal-metabolic-rate);N
+ECW;ecw-(extracellular-water);N
+ETAR;ecw/tbw-of-right-arm;N
+ETLR;ecw/tbw-of-right-leg;N
+EC;electro-cardiac-stability;N
+FFMI;ffmi-(fat-free-mass-index);N
+FMI;fmi-(fat-mass-index);N
+ICW;icw-(intracellular-water);N
+KH50;khz-50-whole-body-phase-angle;N
+KHLA;khz-la-5-phase-angle;N
+KHLL;khz-ll-5-phase-angle;N
+KHRA;khz-ra-5-phase-angle;N
+KHRL;khz-rl-5-phase-angle;N
+KHTR;khz-tr-5-phase-angle;N
+LARM;lean-mass(%)-of-left-arm;N
+LLEG;lean-mass(%)-of-left-leg;N
+RARM;lean-mass(%)-of-right-arm;N
+RLEG;lean-mass(%)-of-right-leg;N
+TRUN;lean-mass(%)-of-trunk;N
+CABD;measured-circumference-of-abdomen;N
+CCH;measured-circumference-of-chest;N
+CLARM;measured-circumference-of-left-arm;N
+CLTH;measured-circumference-of-left-thigh;N
+CNE;measured-circumference-of-neck;N
+CRARM;measured-circumference-of-right-arm;N
+CRTH;measured-circumference-of-right-thigh;N
+CALOR;recommended-calorie-intake;N
+SFALL;sfa-ll(subcutaneous-fat-of-abdomen-llimit);N
+SFAUL;sfa-ul(subcutaneous-fat-of-abdomen-ulimit);N
+SLM;slm-(soft-lean-mass);N
+SMI;smi-(skeletal-muscle-index);N
+SMM;smm-(skeletal-muscle-mass);N
+SVR;svr(skeletal-muscle-mass-visceral-fat-area-ratio);N
+TBW;tbw-(total-body-water);N
+VFA;vfa-(visceral-fat-area);N
+VFL;vfl-(visceral-fat-level);N
+WC;wc(waist-circumference);N
+WHR;whr-(waist-hip-ratio);N
+WHTR;whtr(waist-height-ratio);N
+TGWT;target-weight;N
+MODT;How much time did you usually spend doing moderate physical activities on one of those days? Please answer in hours and minutes;C
+WKT;How much time did you usually spend walking on one of those days? Please answer in hours and minutes.;C
+FRUTU;How many fruit units (including natural fruit juices) do you consume per day?;C
+SWBV;How many sweet or carbonated beverages do you drink per day?;C
+WINE;How much wine do you drink per week?;C
+FSM_D;If you answered former smoker, please fill in the following details:  Number of cigarettes per day  Years smoking  Years without smoking  Age started smoking;C
+CSM_D;If you answered current smoker, please fill in the following details:  number of cigarettes smoked per day  years smoking  age started smoking;C
+PHY;We are interested in finding out about the kinds of physical activities that people do as part of their everyday lives.  The questions will ask you about the time you spent being physically active in the last 7 days. Please answer each question even if yo;C
+MOD;Think about all the moderate activities that you did in the last 7 days. Moderate activities refer to activities that take moderate physical effort and make you breathe somewhat harder than normal. Think only about those physical activities that you did f;C
+WALK;Think about the time you spent walking in the last 7 days. This includes at work and at home, walking to travel from place to place, and any other walking that you have done solely for recreation, sport, exercise, or leisure.    During the last 7 days, on;C
+SIT;The last question is about the time you spent sitting on weekdays during the last 7 days.  Include time spent at work, at home, while doing course work and during leisure time.  This may include time spent sitting at a desk, visiting friends, reading, or;C
+OLIV;Dietary Habits Questions (14-item questionnaire for Adherence to Mediterranean diet)    Do you use olive oil as a main culinary fat?;C
+OLAM;How much olive oil do you consume in a given day (including oil used for frying, salads, out-of-house meals, etc.)?;C
+VEG;How many vegetable servings do you consume per day? (1 serving : 200 g [consider side dishes as half a serving]);C
+RED;How many servings of red meat, hamburger, or meat products (ham, sausage, etc.) do you consume per day? (1 serving: 100-150 g);C
+BUT;How many servings of butter, margarine, or cream do you consume per day? (1 serving: 12 g);C
+LEG;How many servings of legumes do you consume per week? (1 serving: 150 g);C
+FISH;How many servings of fish or shellfish do you consume per week? (1 serving 100-150 g of fish or 4-5 units or 200 g of shellfish);C
+SWTPT;How many times per week do you consume commercial sweets or pastries (not homemade), such as cakes, cookies, biscuits, or custard?;C
+NUTS;How many servings of nuts (including peanuts) do you consume per week? (1 serving 30 g);C
+PREF;Do you preferentially consume chicken, turkey, or rabbit meat instead of veal, pork, hamburger, or sausage?;C
+SOF;How many times per week do you consume vegetables, pasta, rice, or other dishes seasoned with sofrito (sauce made with tomato and onion, leek, or garlic and simmered with olive oil)?;C
+HDL;Reduced HDL cholesterol: < 40 mg/dL (1.03 mmol/L) in males or < 50 mg/dL (1.29mmol/L) in females.;C
+BP;Raised blood pressure: systolic BP ? 130 or diastolic BP ? 85 mm Hg.;C
+FPG;Raised fasting plasma glucose (FPG): ? 90 mg/dL (5.0 mmol/L).;C
+PREG;Are you pregnant, breast feeding, planning to get pregnant or your partner is planning to get pregnant, in the next 12 months?;C
+TRI;Raised Triglycerides ( ? 100 mg/dL (1.7 mmol/L));C
+DIAB;Do you have any of the following chronic medical conditions?        (choice=Diabetes);C
+HYP;Do you have any of the following chronic medical conditions?        (choice=Hypertension);C
+HYPM;Do you have any of the following chronic medical conditions?        (choice=Hypertension with medication);C
+DYS;Do you have any of the following chronic medical conditions?        (choice=Dyslipidaemia (imbalance of lipids such as cholesterol, low-density lipoprotein cholesterol, (LDL-C), triglycerides, and high-density lipoprotein (HDL)).);C
+DYSM;Do you have any of the following chronic medical conditions?        (choice=Dyslipidaemia controlled with medication);C
+CVD;Do you have any of the following chronic medical conditions?        (choice=Cardiovascular disease);C
+GAST;Do you have any of the following chronic medical conditions?        (choice=Chronic gastrointestinal condition);C
+CANC;Do you have any of the following chronic medical conditions?        (choice=Cancer);C
+INF;Do you have any of the following chronic medical conditions?        (choice=Acute infectious disease);C
+REN;Do you have any of the following chronic medical conditions?        (choice=Renal disease);C
+CHR;Do you have any of the following chronic medical conditions?        (choice=None that I am aware of);C
+ACE;Do you take any current medication? (choice=ACE inhibitors);C
+DIU;Do you take any current medication? (choice=Diuretics);C
+OAH;Do you take any current medication? (choice=Other antihypertensive agents);C
+STA;Do you take any current medication? (choice=Statins);C
+OLP;Do you take any current medication? (choice=Other lipid-lowering agents);C
+INS;Do you take any current medication? (choice=Insulin);C
+ORH;Do you take any current medication? (choice=Oral hypoglycaemic agents);C
+ANT;Do you take any current medication? (choice=Aspiring or Antiplatelet therapy);C
+HOR;Do you take any current medication? (choice=Hormone-replacement therapy);C
+PAI;Do you take any current medication? (choice=Pain medication);C
+ANTD;Do you take any current medication? (choice=Antidepressants);C
+SUP;Do you take any current medication? (choice=Supplements (Vitamins, minerals, fatty acids, probiotics));C
+STH;Do you take any current medication? (choice=Others);C
+MEDI;Do you take any current medication? (choice=None:);C
+ILL;Do you currently suffer from any long-term illness?  If Yes, please specify.;C
+WHL;Women's health (only for women)  Please fill in the following information:  Years of menarche  Years of menopause  Number of children  Number of full-term pregnancies  Currently breastfeeding?  Did you breastfeed your children? If yes, how many?;C
+
